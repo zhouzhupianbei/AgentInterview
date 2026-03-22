@@ -4,6 +4,10 @@
 > **版本**：v1.0  
 > **更新时间**：2026 年 3 月
 
+[![GitHub stars](https://img.shields.io/github/stars/zhouzhupianbei/AgentInterview?style=for-the-badge)](https://github.com/zhouzhupianbei/AgentInterview)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=for-the-badge)](https://github.com/zhouzhupianbei/AgentInterview/blob/main/LICENSE)
+[![Issues](https://img.shields.io/github/issues/zhouzhupianbei/AgentInterview?style=for-the-badge)](https://github.com/zhouzhupianbei/AgentInterview/issues)
+
 ---
 
 ## 📖 项目介绍
