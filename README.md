@@ -1,12 +1,13 @@
 # AIGC 时代开发者面试指南
 
 > **副标题**：面向 AI 开发者的一站式面试准备资源  
-> **版本**：v1.0  
-> **更新时间**：2026 年 3 月
+> **版本**：v1.1  
+> **更新时间**：2026 年 3 月 22 日
 
 [![GitHub stars](https://img.shields.io/github/stars/zhouzhupianbei/AgentInterview?style=for-the-badge)](https://github.com/zhouzhupianbei/AgentInterview)
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=for-the-badge)](https://github.com/zhouzhupianbei/AgentInterview/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/zhouzhupianbei/AgentInterview?style=for-the-badge)](https://github.com/zhouzhupianbei/AgentInterview/issues)
+[![2026 Updates](https://img.shields.io/badge/2026-MCP%2C%20GraphRAG%2C%20Deep%20Agents-green?style=for-the-badge)](./docs/06-资源汇总.md#610-2026-新技术与标准)
 
 ---
 
@@ -66,10 +67,31 @@ AgentInterview/
 
 本项目参考了以下优质开源项目：
 
-| 项目 | Stars | 简介 |
-|------|-------|------|
-| [WeThinkIn/AIGC-Interview-Book](https://github.com/WeThinkIn/AIGC-Interview-Book) | 3.3k | AIGC 算法岗面试宝典，涵盖大模型、AI Agent、深度学习等 |
-| [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) | 2.6k | AI Agent 学习指南 |
+| 项目 | Stars | 简介 | 更新 |
+|------|-------|------|------|
+| [WeThinkIn/AIGC-Interview-Book](https://github.com/WeThinkIn/AIGC-Interview-Book) | 3.3k+ | AIGC 算法岗面试宝典，涵盖大模型、AI Agent、深度学习等 | 持续更新 |
+| [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) | 2.6k+ | AI Agent 开发指南，LangGraph 实战，转行大模型 | 2026 新增 |
+| [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | 20k+ | 构建状态化 Agent 的图框架 | 2026 重点 |
+| [modelcontextprotocol](https://github.com/modelcontextprotocol) | 8k+ | Model Context Protocol 开放标准 | 2026 新标准 |
+| [microsoft/graphrag](https://github.com/microsoft/graphrag) | 12k+ | 基于知识图谱的 RAG 系统 | 2026 热点 |
+
+---
+
+## 🎯 2026 新增内容
+
+### 新技术专题
+
+- **MCP (Model Context Protocol)**：2026 年工具集成新标准
+- **GraphRAG**：微软知识图谱增强检索
+- **Deep Agents**：LangChain 深度 Agent 框架
+- **Agentic RAG**：Agent 自主决策的 RAG 系统
+
+### 更新内容
+
+- 框架对比：LangChain vs LangGraph vs CrewAI vs AutoGen
+- 多 Agent 模式：Supervisor、Hierarchical、Workflow
+- 部署优化：vLLM 2026 新特性、推理成本优化
+- 面试题库：新增 20+ 道 2026 前沿技术题
 
 ---
 
@@ -88,16 +110,25 @@ AgentInterview/
 - Agent 核心组件（规划、记忆、工具）
 - ReAct、CoT、ToT 等推理模式
 - Function Calling / Tool Use
+- **MCP 协议**（2026 新）
 - 多 Agent 协作框架
+- **LangGraph 状态机**（2026 重点）
 - Agent 评估与优化
+
+### RAG 技术（热点）
+
+- 向量数据库选型
+- 检索优化（混合检索、重排序）
+- **GraphRAG**（2026 新）
+- **Agentic RAG**（2026 新）
+- 长文档处理策略
 
 ### 开发技能（实战）
 
 - Prompt Engineering 技巧
-- RAG 架构与实现
-- 向量数据库选型
 - 模型微调（LoRA、QLoRA）
-- 推理优化与部署
+- 推理优化与部署（vLLM、TGI）
+- **Deep Agents 架构**（2026 新）
 
 ---
 
