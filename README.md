@@ -1,8 +1,8 @@
 # AIGC 时代开发者面试指南
 
 > **副标题**：面向 AI 开发者的一站式面试准备资源  
-> **版本**：v1.1  
-> **更新时间**：2026 年 3 月 22 日
+> **版本**：v1.2  
+> **更新时间**：2026 年 3 月 22 日 (自动更新)
 
 [![GitHub stars](https://img.shields.io/github/stars/zhouzhupianbei/AgentInterview?style=for-the-badge)](https://github.com/zhouzhupianbei/AgentInterview)
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=for-the-badge)](https://github.com/zhouzhupianbei/AgentInterview/blob/main/LICENSE)
@@ -92,6 +92,22 @@ AgentInterview/
 - 多 Agent 模式：Supervisor、Hierarchical、Workflow
 - 部署优化：vLLM 2026 新特性、推理成本优化
 - 面试题库：新增 20+ 道 2026 前沿技术题
+
+### 🔄 自动更新 (v1.2 新增)
+
+本项目支持自动更新机制，定期同步最新行业资源：
+
+**本次更新 (2026-03-22)**：
+- ✅ 新增 **前沿开发模式** 章节 (docs/03-开发技能.md)
+  - Vibe Coding（氛围编程）深度解析
+  - SDD 规范驱动开发方法论
+  - AI 编辑器对比 (Cursor/Trae/通义灵码)
+- ✅ 新增 **微信公众号精选** 资源 (docs/06-资源汇总.md)
+  - 前沿开发模式：30 篇 (Vibe Coding, SDD, Cursor)
+  - AI 工程化：30 篇 (RAG 实战，Agent 设计)
+  - 面试成长：10 篇 (算法岗面试真题)
+- ✅ 完整文章列表：`memory/wechat-articles.json` (70 篇)
+- ✅ 更新日志：`memory/agent-interview-updates.md`
 
 ---
 

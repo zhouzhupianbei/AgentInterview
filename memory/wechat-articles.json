@@ -1,0 +1,673 @@
+{
+  "generated_at": "2026-03-22T10:15:00+08:00",
+  "search_summary": {
+    "total_queries": 7,
+    "total_articles": 70
+  },
+  "categories": {
+    "前沿开发模式": {
+      "query_count": 3,
+      "article_count": 30,
+      "articles": [
+        {
+          "title": "Vibe Coding,是怎么「玩废」程序员的?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bJVzN_QlexXCzZZ2YjZrZUVqXa8Fplpd9AOHj_U6CKZWxJqanbeT0atGBi3haFp2cbdKby-S2s4PshAWMCX9xztopKphZIbJscDkDvHl7DgbzZ2QKI_cpi65LsR4BpP7V63fQ0_dZKSKseqv7cxiu-hhgVHAV2UDQAioZy0bFp7sOTwipVVkvbn1KwWepjGJpZFqM3A_QkK_0OK9DLfgmPA..&type=2&query=Vibe Coding&token=D23825E07219810422256EB05A92A2D2234797E769BF5068",
+          "summary": "Vibe Coding 最大的弊端就在于,用户不知道那堆代码是怎么跑起来的,排查和调试都无从下手.「好吧,我承认我变菜了,但我至少...",
+          "datetime": "2026-02-20 14:02:30",
+          "date_text": "2026年02月20日",
+          "date_description": "29天前",
+          "source": "极客公园"
+        },
+        {
+          "title": "Vibe Coding创作者经济崛起,零克云以“一键部署”构建核心基座",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bJVzN_QlexXCzZZ2YjZrZUVqXa8Fplpd9LPUYvfp-Uq2j4D3Ju77oE3XMTNJ5JscRupuZ3crOHQYEkyMlsgnHxclRxoGYaLsqJZcWnNzJa2MjpRhayvGPR1uFY6LhsjLgnYXkamwF4PqY4bj_QLBSb2QJTKbytdk0FqAdeqDHAsDqS5H6yHCpVb1lW0K28F7G_xnL8D2uuMXf3q8uRDTfkw..&type=2&query=Vibe Coding&token=D23825E07219810422256EB05A92A2D2234797E769BF5068",
+          "summary": "Vibe Coding正是释放个体创造力的关键杠杆,但它也暴露出'工程鸿沟'——目前AI项目失败率高达67%,85%的企业面临人才短缺....",
+          "datetime": "2026-01-18 09:10:54",
+          "date_text": "2026年01月18日",
+          "date_description": "63天前",
+          "source": "界面新闻"
+        },
+        {
+          "title": "什么是Vibe Coding",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bJVzN_QlexXCzZZ2YjZrZUVqXa8Fplpd9ppZBxgkIkv0Dq9YQf-g8BT3PgV0QZfgvxshisl5KPt51kUgRDUHbkfcb8Gry5A9Rorgw4xYwNcgQX44I5SWHzUtaHfPAusls8ukvjfivyeWyGNwlrovqTZyZGxPIVbBnTSdPyoIP8uU6xyl8ky2Bxgbt35BRvuWoGtT3iutDR4irCDCayYmfpA..&type=2&query=Vibe Coding&token=D23825E07219810422256EB05A92A2D2234797E769BF5068",
+          "summary": "Vibe Coding(氛围编程 / 感觉编程)是近年来随着 AI 辅助编程工具(如 GitHub Copilot、Cursor、通义灵码等)的普及而兴起的一个...",
+          "datetime": "2026-03-21 10:25:01",
+          "date_text": "2026年03月21日",
+          "date_description": "23小时前",
+          "source": "集思信友工作室"
+        },
+        {
+          "title": "谷歌把「Vibe Coding」直接拉满全栈了!Antigravity Agent + Firebase 一键接后端,你的 prompt 真要变“可上生产”的 App?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bJVzN_QlexXCzZZ2YjZrZUVqXa8Fplpd9kvR6wJWbXOnVeHJRhI7wPRB2SDDl1txk1fVBxh4NVvzb1_-Q67z-49B0R3Tm06SwaTud3hAreUR3xYeOCijwdpTAG-JbXBz9ksesjEnEdAT8GmhzPIdCnpDa9Y0TJhhhBbZyBC_T7CjicYIMLWBn-cOoz2ZKQVBU29LhGO9MNlPI3OTRHYU2og..&type=2&query=Vibe Coding&token=D23825E07219810422256EB05A92A2D2234797E769BF5068",
+          "summary": "谷歌把「Vibe Coding」直接拉满全栈了!Antigravity Agent + Firebase 一键接后端,你的 prompt 真要变“可上生产”的 App?导读超...",
+          "datetime": "2026-03-22 02:27:28",
+          "date_text": "2026年03月22日",
+          "date_description": "7小时前",
+          "source": "格物之声"
+        },
+        {
+          "title": "Vibe Coding 到底是个啥?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bJVzN_QlexXCzZZ2YjZrZUVqXa8Fplpd9WYKUKrK4LKWJzdFKrPj9A315pMLELNtK6cTRodycu7uIPafq2dKUJ6RhEulvVWSHq-2nZTvL5IeIel7xIWmNE3xUMO-dTPlrfsH6IxDl7f_77eqKem_wjuszjy-CI8O7kfYh_R1mBJmeqpSF3m9mDFXC_jTbJcnT-M_6qlXS4ZijotuuiAmOIg..&type=2&query=Vibe Coding&token=D23825E07219810422256EB05A92A2D2234797E769BF5068",
+          "summary": "最近刷论坛、逛社区,发现一个很潮、很酷的新词儿:“Vibe Coding”.乍一听有点懵,到底啥是“Vibe Coding”?是写代码还要讲...",
+          "datetime": "2026-03-15 11:25:51",
+          "date_text": "2026年03月15日",
+          "date_description": "6天前",
+          "source": "小蜜叮叮"
+        },
+        {
+          "title": "Vibe Coding 时代:为什么说「产品感」比「写代码」更稀缺?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bJVzN_QlexXCzZZ2YjZrZUVqXa8Fplpd9l6Yw-HBhVvPn13zEe0V3xyXf3FwJ4d_2FnP2MfZ7B3YJr4s82P1m_DQpXq0zYFQQUoC6hdkv522d9_KLvSKQFfxRXIwNnuvct-5-3iHYD-ZqYMRsXxffKXveOasZ3C-0738OiDfea76tGE_65shaQZk7Qv3Svijh3vb6qbVq-i5hWLv6O878UA..&type=2&query=Vibe Coding&token=D23825E07219810422256EB05A92A2D2234797E769BF5068",
+          "summary": "Vibe Coding 的乐趣,不是掌握编程语言或框架,而是把 AI 当作你思维的延伸——以对话的速度,把模糊的想法变成真实可用的产品....",
+          "datetime": "2026-02-20 12:17:16",
+          "date_text": "2026年02月20日",
+          "date_description": "29天前",
+          "source": "少数派"
+        },
+        {
+          "title": "Vibe Coding 比性爱更好",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bJVzN_QlexXCzZZ2YjZrZUVqXa8Fplpd97ijT-IwwtZMKKrs1YUR2kHcyVwQ3vEC4jWjWiGfvSYpHa3hLwR4UcFaRNG25ow2qPnuS3lHowkmnB_fdOIbogpXoOms8xcH0OkNaFZaQl0ZGtypAEH_AQtNm1pl5LGwtWXJ4v0wGIL5yO89Hn551Y_efyz1M-ADBi1CTeSy8XJn0OK9DLfgmPA..&type=2&query=Vibe Coding&token=D23825E07219810422256EB05A92A2D2234797E769BF5068",
+          "summary": "Vibe Coding 带来的兴奋,更高频、更可控,而且能沉淀为真实成果.Vibe Coding 并不等于“用 AI 写代码”.它更像一种新型心流:...",
+          "datetime": "2026-03-20 12:36:12",
+          "date_text": "2026年03月20日",
+          "date_description": "1天前",
+          "source": "CoCo的小黑屋"
+        },
+        {
+          "title": "Vibe Coding 来了,我用 10 分钟做了一个应用",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bJVzN_QlexXCzZZ2YjZrZUVqXa8Fplpd9VSKnf4XjZObb04VI9hhrm8QGtr_u2YlY9Rxk4z0WBl3VPGpMDZ-lOJuc2_eC_nd8Ypj2W4hHFc56DjttZGa-1ymYSiXtnhpGMAAw_J3xfhsJ_W1dmiznA7Ljf7H7PZAbQC3VQQ5IdhApSNElbeSzOw0ZygVG48zJ1K2Cd6ll1MhFkDr8IT4KYw..&type=2&query=Vibe Coding&token=D23825E07219810422256EB05A92A2D2234797E769BF5068",
+          "summary": "AI * 职业教育我用10分钟做了一个应用:Vibe Coding正在改变高职教育从「想学编程但没时间」到「10分钟发布应用」,一位高职教...",
+          "datetime": "2026-03-21 21:34:13",
+          "date_text": "2026年03月21日",
+          "date_description": "12小时前",
+          "source": "Onno老师AI学不倦"
+        },
+        {
+          "title": "Vibe Coding CN:道法自然的AI结对编程之道",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bJVzN_QlexXCzZZ2YjZrZUVqXa8Fplpd9IcTs5RZTa6Bt4_QMfe3apt6mnCLbNo3-LyeWOAS-F3Ri-TydSzHUbl2oDHmqs2a2QHwjMZyBcjzY11iwp9aBUrRgw3SslAqvcee5nK6Y5AQi-Bl7lNTbzOdM7LEul25HLDT9Lwcw14ZMnLHwHRcJnWVFxErHE5tsX9J1IQ53TMRhWLv6O878UA..&type=2&query=Vibe Coding&token=D23825E07219810422256EB05A92A2D2234797E769BF5068",
+          "summary": "最近GitHub上一个叫做「Vibe Coding CN」的中文教程火了,星标涨得飞快.这到底是个什么东西?为什么程序员们都说它打开了AI结...",
+          "datetime": "2026-03-21 20:32:51",
+          "date_text": "2026年03月21日",
+          "date_description": "13小时前",
+          "source": "叽里呱啦bot"
+        },
+        {
+          "title": "Vibe Coding崛起:85%开发者拥抱AI编程,传统编码方式正在被颠覆",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bJVzN_QlexXCzZZ2YjZrZUVqXa8Fplpd9Xm48ZXV6D4nPsHALbi9J-TN2hOTfg0ADLptpzrmtgUwtOf-BcKhZY5PW9w_xB6AZjVhlYZ4dw0Vlk0ia8vlwtw-jaVybJCBvEHhbfKdWy8wVer4ikMu8FjPg07b81p1AiszJNhYAgG-z1ulKHd1LV28eoLPvnzUEvkrJvqRBCOcSYTqT4eyLmA..&type=2&query=Vibe Coding&token=D23825E07219810422256EB05A92A2D2234797E769BF5068",
+          "summary": "Vibe Coding崛起:85%开发者拥抱AI编程,传统编码方式正在被颠覆当Andrej Karpathy用6个单词＂fully give in to the vibes＂定义一种...",
+          "datetime": "2026-03-19 11:04:42",
+          "date_text": "2026年03月19日",
+          "date_description": "2天前",
+          "source": "极客Leo AI编程"
+        },
+        {
+          "title": "SDD编程:AI时代的规范驱动开发",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9NPXG1-WQMwmig8sJqUhr9pHgIhqWeiEZ8eD6FdNrr8klalNNYWkKopKNWg9LWd968SmX3wG6zx-buZLzJWRuVp8_GJEQcvrSfJn0nMfamf-NucpRi7fgc5VltwzZcBbpzn4HRWyrp1AaR1vma_tKrXKid3Who3WN8QKsw-bwd8SFW6cwuUnkdA..&type=2&query=SDD %E5%BC%80%E5%8F%91&token=D238832B274CD45176713BE40EE207F677E6654D69BF5077",
+          "summary": "一、从Vibe Coding到SDD:AI编程的演进之路1.Vibe Coding的局限性＂Vibe Coding＂(氛围编程)是早期AI编程的一种模式,开发者...",
+          "datetime": "2026-02-05 08:06:23",
+          "date_text": "2026年02月05日",
+          "date_description": "45天前",
+          "source": "编程广角镜"
+        },
+        {
+          "title": "AI 时代的新开发模式:SDD 规范驱动开发是什么",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9EOJRqBMnOlgrTVBnqK0BP9j1o2EcHdzptepWO62xbMM882kjBSPe8f77VYtz3iRuWxk0IVVNoyNkP9XUeK8-yv8mZHZpXYF__InARKEFEm2FNAooshwHfy8G4jGRqR3iGtO8ZSw3d4WBpsiuIn69aqMr2MTLIfuXyXCpETALffSrCDCayYmfpA..&type=2&query=SDD %E5%BC%80%E5%8F%91&token=D238832B274CD45176713BE40EE207F677E6654D69BF5077",
+          "summary": "Thoughtworks、GitHub、Martin Fowler 都在聊一个词:SDD(Spec-Driven Development,规范驱动开发).简单说,SDD 就是先写规范...",
+          "datetime": "2026-03-19 19:01:21",
+          "date_text": "2026年03月19日",
+          "date_description": "2天前",
+          "source": "ForeverPx"
+        },
+        {
+          "title": "规范驱动开发(SDD)在生产环境下的落地实践",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9HzNntUEmMCq2AZEQmaLhMQAvZqpTa9wgQnFsGoH5fan2jYC-IuXMDiaoOV-fG6c0vpIbDlQvu9YyVb-zI1vHZ7XAT7eYMEK7iVcnOWrI4Tkj7w8SjHNM3y--XuyHLbKm0JV1F0jmV7flsREdE-KMCxcjbZefqa3zrvtyMsfclucCn9lOoZLP2Q..&type=2&query=SDD %E5%BC%80%E5%8F%91&token=D238832B274CD45176713BE40EE207F677E6654D69BF5077",
+          "summary": "规范驱动开发(SDD)正是在这一背景下应运而生.它不是对 AI能力的否定,而是对 AI使用方式的系统性升级——通过将规范(而非...",
+          "datetime": "2026-01-21 16:11:34",
+          "date_text": "2026年01月21日",
+          "date_description": "59天前",
+          "source": "毕方教练团"
+        },
+        {
+          "title": "SDD开发框架汇总",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9L3eX0P-P2kZx2K3yn9El-FMr8BUyD2wLG1NE0_vKlM_m-wMRKXDh2CKv9VfSHcuAe7qcW-pf-fDVy0kioNQKEy1A7jszH4qkzRdizVk7kVHid1JvsCfa_uNcmzND1lHtsWO_Ljzb6zuaMFXilTtrpXpYcop89IsDZaAKi8yeaWfYl_Q5RRZQjg..&type=2&query=SDD %E5%BC%80%E5%8F%91&token=D238832B274CD45176713BE40EE207F677E6654D69BF5077",
+          "summary": "但是SDD的开发框架,我认为都没有一个特别完成直接能够上手即用的.我感觉,可以融合一下Speckit和Superpowers的能力,可能...",
+          "datetime": "2026-01-23 21:46:54",
+          "date_text": "2026年01月23日",
+          "date_description": "57天前",
+          "source": "AI大模型情报局"
+        },
+        {
+          "title": "规约驱动开发(SDD):AI编码时代的开发方法论新探索",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9s8oZp8wkwhiz97rwarzvvos1pS8eqdSBynKQMmjEQFyrq0RJE22ATjNRVD5Fv5DQc9S7KwfiYXg5fn2L2KOtRqjYlv6mJ0VPnhAao3ljhf-YzWC7znlOPSINpceNVhJGjXnyO8dDPB-xr2XYxopPT12h0rEtY_vNmYU7-vqA4slCy6umSSPEsg..&type=2&query=SDD %E5%BC%80%E5%8F%91&token=D238832B274CD45176713BE40EE207F677E6654D69BF5077",
+          "summary": "具体而言,SDD要求开发过程先通过结构化、可执行的规约,明确系统的行为、需求、约束和验收标准,再基于该规约完成代码的生成...",
+          "datetime": "2026-03-21 11:21:10",
+          "date_text": "2026年03月21日",
+          "date_description": "22小时前",
+          "source": "技术知行之路"
+        },
+        {
+          "title": "麻辣小龙虾公司SDD开发范式实战:从需求到交付的规格驱动之路",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9DK9dmMkM41XQ2_CghYTGlPTjdL2y9PQCSWPdjmWFXnHbxjI94_v7uD4a0sGqtOiYKjXVXRr-820fUyZAGDZt4f048tkeoA9dX1MSU9J9mXtXqbEw90zRyQw3pN4S5j6_KW1d9kOrrOPc12SEyD33HQgtqxDE9fToq-5G1ferj1-rCDCayYmfpA..&type=2&query=SDD %E5%BC%80%E5%8F%91&token=D238832B274CD45176713BE40EE207F677E6654D69BF5077",
+          "summary": "SDD工作流的P4 开发者角色的重让开发者的工作＂Why＂9.4 开发者角色的重让开发者的工作向上者设计让AI可＂消失＂,而是让开发...",
+          "datetime": "2026-03-11 22:14:12",
+          "date_text": "2026年03月11日",
+          "date_description": "10天前",
+          "source": "健哥有道"
+        },
+        {
+          "title": "AGI SDD 规范驱动开发:本质到底是什么?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9xR1Ubita78zeUer-cpizM0O4BcTBjWzRGB5I5jcIg3nqqhOaKQa4LJGMGebcV4mNNjMNPia9gPr5Ir_mvH_mBqaRk8aHTKwydeZzIuNMRf2B_exskxtMcTe_GJsKb1DbIjinh-BbatIE9oh9z6JVX0RYnVw2NEr_N4yA3w57_Vm00NVofL2iDw..&type=2&query=SDD %E5%BC%80%E5%8F%91&token=D238832B274CD45176713BE40EE207F677E6654D69BF5077",
+          "summary": "当然,SDD 的目的并非让开发更繁琐,而是让人与 AI 协作更具可靠性,更可预测.05写在最后以上全文基于个人理解,欢迎批评指正...",
+          "datetime": "2026-03-02 08:01:27",
+          "date_text": "2026年03月02日",
+          "date_description": "20天前",
+          "source": "JeffckyShare"
+        },
+        {
+          "title": "拥抱SDD规范驱动开发但Spec Kit并非银弹",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9L3eX0P-P2kZx2K3yn9El-FMr8BUyD2wLG1NE0_vKlM_m-wMRKXDh2P4kcuF34enfms-Zov4aRYUkpg1fn3daxJ6XytEKujNIAp12I_WCkbl4CK0mzlBFYUWbOfRQn8ileYyc97gzpGk0V_gVORiknlwUTB-LANPCU-uVrIoyPCRj3x9Nw6p-Fg..&type=2&query=SDD %E5%BC%80%E5%8F%91&token=D238832B274CD45176713BE40EE207F677E6654D69BF5077",
+          "summary": "SDD(Specification-Driven Development,规范驱动开发)这个概念应运而生.SDD核心思想用最简单的话说:先想清楚,再动手.把...",
+          "datetime": "2026-01-21 07:30:33",
+          "date_text": "2026年01月21日",
+          "date_description": "60天前",
+          "source": "AI大模型情报局"
+        },
+        {
+          "title": "Vibe Coding时代SDD开发的黄金16条原则",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9tj9LWJTfXH_YdKvwISn_0OEImQD998Dlqn3Jx5Jee_KBAW8xCRjLX8VYnKa_oX3OYxshFZDbQOVwgzg-U19W-FoAhFL0NZbRyNsQykyH5BEoUop9kIKDNDOLgMPhK-vlkU6E9ZfdFr_EMEyKJgP4IK_pqTLEX0CBSfzfHCbr48CFW6cwuUnkdA..&type=2&query=SDD %E5%BC%80%E5%8F%91&token=D238832B274CD45176713BE40EE207F677E6654D69BF5077",
+          "summary": "真正可控、可复现、可规模化.#程序员成长指南 #软件开发实用技巧 #SDD规范驱动开发 #VibeCoding #项目管理与协作",
+          "datetime": "2026-02-25 11:05:28",
+          "date_text": "2026年02月25日",
+          "date_description": "24天前",
+          "source": "AGI知路"
+        },
+        {
+          "title": "SDD规范驱动开发:AI时代的软件工程新范式",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9ogQSlO2aZqZ9mX3U5SQXWHvijentAB1WwEcDEKgCCapnzLywINjh6DHGF8wAP9B7mQF1rA2wD5gTRDcjASA_UsEmm5AKqB6BgQDx0fjbXmq4YPFgVueJATRJxS79_Zn17HrznqJegFArnyPqaamqUxiN426p_t2iHiAbFUTZF91535pjGOOjYg..&type=2&query=SDD %E5%BC%80%E5%8F%91&token=D238832B274CD45176713BE40EE207F677E6654D69BF5077",
+          "summary": "SDD(规范驱动开发)通过将规范提升为软件系统唯一的＂事实来源＂,让代码成为规范的自动化表达,从根本上解决了传统开发中规...",
+          "datetime": "2026-03-03 07:51:19",
+          "date_text": "2026年03月03日",
+          "date_description": "19天前",
+          "source": "GoFrame大魔王"
+        },
+        {
+          "title": "AI编程巨头Cursor深陷“套壳”风波:自研Composer 2实为月之暗面Kimi K2.5",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9jb4rUyrVXDd1akilMKf72rjtDhbqR1qQovwEgxP06KxUHlVZHwSfBMZ8vW0LRMEE4oGGXukWU34FGwrLwJOUeMeitF19HpIQSwkyAtrdIisrbOMEmvWhock-boeioWCt_Jw7ec6pCMccbA4WNp4ivY3YAQKaONiODH4fPeVxIiPf3q8uRDTfkw..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+          "summary": "估值500亿美金的AI编程工具Cursor被曝自研模型Composer 2实为月之暗面Kimi K2.5.通过API抓包发现底层模型ID,引发技术圈关于...",
+          "datetime": "2026-03-21 19:58:57",
+          "date_text": "2026年03月21日",
+          "date_description": "14小时前",
+          "source": "硅基生物观察室"
+        },
+        {
+          "title": "开启 AI 编程之旅:Cursor 下载、安装与配置全攻略",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9vkLf6YlBCIOjthJgGSI2IlHrgtO80PT8SNZu3lw2NzgCjBpHM_PbnRd0XmAnypVMo392jtLLDLZCW187nRiqLmFGk-eWBETtPqrWaKzkxFcZ7Z1TfsZRX_DAZ5FQVAY5kpckSU1V-Y8_Ct2D_ecUy1wrvX70Aiw9iwVrVHLnVx31AfaFW2DefQ..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+          "summary": "在人工智能飞速发展的今天,编程已经不再是程序员的专利.有一款被称为“AI 时代最强编辑器”的工具——Cursor,正以其强大的代...",
+          "datetime": "2026-02-10 13:13:05",
+          "date_text": "2026年02月10日",
+          "date_description": "39天前",
+          "source": "柠檬班软件测试"
+        },
+        {
+          "title": "实践总结:AI编程工具Cursor的一个使用手册",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9k5HbDCkh55HBiRi064rARI0Cs66TGP9fELwHDf0NOr1SdJxRlQuN32lRn0ogK5LswFig-59ewvEsWtpQNP1TZOUnuqzWgf8zNlUVEfdIl9whTc-FpZKOMB5CPY7Q5jhnJyXtv8GUah8RRKBW0YwoaVPsjKVsi9LmRuGtXf1qemVAe0f8bRARvQ..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+          "summary": "实践总结:AI编程工具Cursor的一个使用手册罗光宣序:最近,使用AI编程工具Cursor开发一个基于Vue3.0的前端项目,从项目实践,...",
+          "datetime": "2026-01-29 00:04:41",
+          "date_text": "2026年01月29日",
+          "date_description": "52天前",
+          "source": "fireflyer"
+        },
+        {
+          "title": "马斯克预言成真?Cursor 让编程不再是“代码”,而是“对话” | 深度测评",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9vkLf6YlBCIOjthJgGSI2IlHrgtO80PT8SNZu3lw2NzgCjBpHM_PbnWsUuYOgACOrsulVi_AZ0URwdsuAcJeec7Kiw_zJqqx_ZmAz9mVuYltx9Y96eY8B_x_b6XsxzyAcJI6upQ73c-NcS6TCKcJhyB7zOYCXhg7__22s9MrFCzoY-UZGbO56rA..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+          "summary": "今天,我们正站在“自然语言编程”的门槛上.而推开这扇门的钥匙,可能就是我们今天要聊的主角——Cursor.它不仅是让程序员效...",
+          "datetime": "2026-01-20 18:27:28",
+          "date_text": "2026年01月20日",
+          "date_description": "60天前",
+          "source": "柠檬班软件测试"
+        },
+        {
+          "title": "用Cursor玩转AI辅助编程——不写代码也能做软件开发pdf电子书下载",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9gfdzOSNJCbXl0ZLGuJtWiECrHwM1GPitOu_mMRAoZtftfGgI_GUdYpNsygzFwQIjHr9BYcoAVIH0nNFqPocQk6Ua6HbZ0kC1Mb7Fbpgegk-aJEaje9dCDVnKmQrTYplLhRxEm2vYB-PejgxJRbPOlm4TUHXp42tcdxS4D9mdgVVFH6In5Ei3zg..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+          "summary": "Cursor在编程中的角色 3第2章 安装和配置Cursor 52.1 系统要求 52.2 下载与安装 62.3 初始配置 122.3.1 主题设置 142.3.2 字体设置 ...",
+          "datetime": "2026-01-17 12:00:24",
+          "date_text": "2026年01月17日",
+          "date_description": "63天前",
+          "source": "爱搜电子书"
+        },
+        {
+          "title": "AI编程神器Cursor保姆级攻略:新手也能快速上手",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd99C7Bb1GbOxkFwl71X9kwkm-ukqCjfT_B89NYcCK4UaZbSpy7u-tjzIGDt8E_tlqv61zqdvaubxXHfP5hVBj5Zrh-xoli2kRIskj8w2-a0ALHbpvB1SnUCTnJl8ZcYtybYpVQ_gAuGQ8UdDsdThxw2OLuE4PVoP1VHa6kK1AmtR-q3X8EKMKOIA..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+          "summary": "一、Cursor的产生背景:AI时代,编程效率的“破局者”随着软件开发复杂度不断提升,开发者面临的痛点愈发明显:重复编写基础代...",
+          "datetime": "2026-02-17 06:08:56",
+          "date_text": "2026年02月17日",
+          "date_description": "33天前",
+          "source": "码上菩提"
+        },
+        {
+          "title": "全网保姆级Cursor使用教程(AI编程)",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9Dqu3Ht5ulOCSnu7nUi1pweUc03XAr3v9kVJwzIhaqHR_Dlca7lvqp40VSfT3GNY1umqsYKiYndmqkbtcut9ClH4O9mVhVdhxMvT_tJ6dKPrjkXTcTk2wQDrbhw2T4f0Db0MXToiWHfMQulrl8GerJBjhDyLYnLSrMhvXzPEzvr9hlgeRt7bSzA..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+          "summary": "Cursor 作为 AI 时代的新型 IDE,将 AI 与编程深度结合,能够极大地提高开发效率.如果你习惯 VSCode,Cursor 让你可以无缝过渡....",
+          "datetime": "2026-02-06 10:09:39",
+          "date_text": "2026年02月06日",
+          "date_description": "44天前",
+          "source": "进阶之身"
+        },
+        {
+          "title": "深度测评 Cursor:AI 编程神器到底香不香?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9uAPR_BbsA3JR7O7VS_3GfgS6rZ-VgiUwRpKHd1W3lhZQ5HDfdvOsoLH2ENlPz7Fq9REhmbjEInSDi44urPfNHSdzbIieWzJjAeXIyv7FAO5UKQcbw1q-y0adiYgW4x0-8hW4EwhfJ7Wr2CyvJOXe0QsQQglbGwXl8OlPcRtlYX3vzHZXxeLdyg..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+          "summary": "深度测评 Cursor:AI 编程神器到底香不香?作者: 你的程序员朋友阅读时间: 约 8 分钟 前言2024 年到 2026 年,如果你问身边的专业...",
+          "datetime": "2026-03-15 15:19:06",
+          "date_text": "2026年03月15日",
+          "date_description": "6天前",
+          "source": "去除水印大师"
+        },
+        {
+          "title": "【从0开始AI编程】Cursor工具:如何安装、使用、Rules规则",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9nlMIvgzUL0QHT_K8glHzE9oTvWxndXMICx9bEGjtDmQL-jKamP9tS6Z5hQfbpEO2dekgk2N5O3ZfD4FEJ-LgUdde4OZEhvStcQoaU7fle9xCy5JulPJUME2pR3A4dEySIESB5lZzd87v2j9FlZ3PeUJQf2UBFl0bFRH0BKJU4qNhlgeRt7bSzA..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+          "summary": "用一篇文章,告诉你Cursor是什么?怎么用?Cursor在AI编程里的定位Cursor是一款专门为Ai编程而设计的代码编辑器,深度集成了很...",
+          "datetime": "2026-02-03 00:00:24",
+          "date_text": "2026年02月03日",
+          "date_description": "47天前",
+          "source": "内存科技"
+        },
+        {
+          "title": "编程神器 Cursor,自然语言编程,程序猿们是不是要...",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9kEWUfKXf-xnUJOCQOSGQOaVdNvUyWqGm4vAqLDerLuQ1Dp7ZqZ5rBGNPGTdgoCAQz-DlqcTOOCFZs4A9_7yipKL83WXV0NoM5pYFrrphXJ7D90KpgHe-dTAVccNVLf55B2mmkjaSkBlSRNfzCpDYmLRQ1b-AgA6QnfY9O1e5wlxhlgeRt7bSzA..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+          "summary": "编程神器——Cursor在网上看到了一款编程神器——Cursor,官网介绍说是与 OpenAI 合作的.Cursor 现在还处于早期阶段,但是现在 ...",
+          "datetime": "2023-03-31 09:01:39",
+          "date_text": "2023年03月31日",
+          "date_description": "1087天前",
+          "source": "HelloTech"
+        }
+      ],
+      "description": "Vibe Coding、SDD、AI 编辑器等新兴开发范式",
+      "queries": [
+        "Vibe Coding",
+        "SDD 开发",
+        "Cursor 编程"
+      ]
+    },
+    "AI 工程化": {
+      "query_count": 3,
+      "article_count": 30,
+      "articles": [
+        {
+          "title": "AI 工程化:构建高效 AI 应用的全面指南",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9w4oW62ZEwial5y2oKIEUuHH_hC-szRum9QNDrvVb8LrDyKrXGneHY8p9HFP09qrXncTC4tqESqNdesBfKDIoRsL8HWX79gcVKllkZqRd8_1DgT8720Y972k6_0IxxOdwg5ItFy5OlJOTRtZVjJkxoL4hFm5_U_ICtafBT1ym27lFH6In5Ei3zg..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+          "summary": "AI 应用呢,这就涉及到了 AI 工程化建设.在整个 AI 工程化建设的过程中,有很多核心的模块,主要包括:DataOps,MLOps,DevOps ...",
+          "datetime": "2023-10-12 13:43:33",
+          "date_text": "2023年10月12日",
+          "date_description": "891天前",
+          "source": "InfoQ"
+        },
+        {
+          "title": "宇视AI工程化 我们找产品总工聊了聊落地这回事",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9T78n8cxHhwf-H6sex7UkpEkkvh8AFl8eES4rGJVgp-qir05ku0QSpTOX3u3XoS7cJY_yKGPKkta_DgmpfrqGeuWTK_etgyhIWbRgFTM_nAvHQYYPKxWqF7ACO6RvPtqWMl2oIqJy-4tfpb9IdWuKOlJVy1dizOZR8UlAbaV8Ky5OJBjQH7pCxQ..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+          "summary": "导读当我们在讨论AI落地的时候,宇视科技产品部后端总工葛天宇一直反复提起“AI工程化”一词,该词在宇视总裁张鹏国发表的《北...",
+          "datetime": "2018-11-15 18:46:37",
+          "date_text": "2018年11月15日",
+          "date_description": "2683天前",
+          "source": "智慧安防网"
+        },
+        {
+          "title": "AI工程化:不止于技术,更是汽车行业智能化的必经之路",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9njKTHBjYXGHtvrDPzHZP7gtiMTp_9D9UlpclwM_MePl8hEBFrY_8eJIAvhMWhqOMMZsdc92gPygBt7U2uDKs0cIBO04EO7RbP3hmBdDtRMCkjsrNP8oNt-uxBHkDPyx3oxecyuYJ93KHmN9E287Rrd-_g6d4YxBwhLW3rpeasK4O8fIRwtipOg..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+          "summary": "AI工程化不是对AI技术的升级,而是对AI落地逻辑的重构:它将软件工程的标准化、自动化、可复用思维,融入AI全生命周期,让AI从...",
+          "datetime": "2026-02-02 19:30:10",
+          "date_text": "2026年02月02日",
+          "date_description": "47天前",
+          "source": "Rational 软件定义世界"
+        },
+        {
+          "title": "Python搞模型,.NET落地:AI 工程化首选.NET",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9v4f5KPJ1387dOcBcn4goh3KN96dZSsTCOOkM6k-VpkdYwD52NFUpVV1qBJKyDw7BeqpqU0G-7y0SAxqB5OfO27tiIk6wB9raxrk6MgMp1TV5jiK0VK1MmtNRGMG7xLkYjfFQsfjp49rUvBA1PhGGHkQliH_YzUeIRcgcFhjXE8nm0CtGSSkZQQ..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+          "summary": "AI 工程化落地的最优解 —— 形成 “Python 做模型研发,.NET 做工程化落地” 的黄金组合,已成为众多企业 AI 落地的首选路径.一、...",
+          "datetime": "2026-03-19 22:00:14",
+          "date_text": "2026年03月19日",
+          "date_description": "2天前",
+          "source": ".net架构师大佬"
+        },
+        {
+          "title": "[送5本书]AI工程化— 如何让AI在企业多快好省的落地?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9ICML59MdzqxajVvN5F-qr18tVJmM4zR3_YYHrOUKVrVfvOlD_Dn-tGE6VrQFbG10v7a0y-8YnemhGvtcqu2blLzccsNyMkdApOhTcH-A4iGp-kqFQn4l4bDfvF35t8dob2Jsq82rP1ZmrdZ_r19VP2y9Tx8fNL_4sDXc-E2HN0bS-e4Yz84xMA..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+          "summary": "329直播预告AI工程化—— 如何让AI在企业多快好省的落地?AI 2.0时代,要不要学习MLOPS?MLOps推理的挑战以及大模型时代的推...",
+          "datetime": "2023-10-08 08:00:39",
+          "date_text": "2023年10月08日",
+          "date_description": "896天前",
+          "source": "深度学习与NLP"
+        },
+        {
+          "title": "Java+AI工程化趋势:像混合动力汽车一样双引擎驱动,企业转型成功率提升47%",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9H0CnWyaW_Fj0rs2pa60p-PfD0LrEXoS0kTjAMmXCbbu_xMPgLk-bQO5kpv1ls7SBCdrVocqjpnyK2iQYMnoBXr6_hpApj2Q-wdOany9a6DHiyCMp2lsZLaDN9dgrU-oamG1xMfdo1W04pjprLN6QeYNMkE0Tad_QBvv0YZQdGoP1AfaFW2DefQ..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+          "summary": "金句摘要:Spring AI Alibaba引领Java+AI工程化新范式,像混合动力汽车的双引擎系统,将传统Java生态与大模型能力完美融合.企...",
+          "datetime": "2026-03-20 21:00:49",
+          "date_text": "2026年03月20日",
+          "date_description": "1天前",
+          "source": "小黄学算法"
+        },
+        {
+          "title": "美林数据董事长开年致辞:以AI工程化开启工业智能新征程",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9uf56MSCy8YzRGuIsV0vj6jJWOosQva_-IAcD25rb0xxUT07789l56Mt8QdXwgQ37On3wRuzYVr3GpSrrY3JjEDKNlDSgztstOTRkMKgAfZAtlX2VFcwSnP47ChDJiDwMYC2QKvhHKgE2ioszsitNAYm7N7PwjYs2AuULwZKrFxXFcvUoAZZH7Q..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+          "summary": "工程化平台创新AI工程服务模式,解决“最后一公里”问题,让AI技术真正嵌入生产流程.为践行公司AI+战略,深化AI赋能落地,美林...",
+          "datetime": "2026-01-29 18:20:08",
+          "date_text": "2026年01月29日",
+          "date_description": "51天前",
+          "source": "美林数据"
+        },
+        {
+          "title": "AI工程化|宇视2019全国巡展解密AI的真相",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9RBf40jt7TVjZO1ulvtdvJIiCV7RFYMP5WciGP9Pr7o7eGjE2ZIfugkOxcNLd1Bb1iPjOamdBfJf0ompxm8Gwfkz3hH34HeOUS9IH9hRi0N7MZvNI6rs2OkNO55oabyxb9g3o8mHEeDyo0_A9raBIGuFZzFeaKEfLZ7W9cmR8EZVj3x9Nw6p-Fg..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+          "summary": "2019年4月~6月,宇视科技(uniview)将在全国70余城市召开AI工程化新产品新服务全国巡展活动,主题『无宇伦比 智视未来』.现...",
+          "datetime": "2019-04-09 18:56:26",
+          "date_text": "2019年04月09日",
+          "date_description": "2538天前",
+          "source": "宇视科技"
+        },
+        {
+          "title": "可信AI|“人工智能工程化发展研究报告”第二次研讨会成功举行",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9dN25_t7BlNtdd6l3sN43EZ2vgQ-ze4x2NBjm9AVChQYUfcM17NosZVyklbWZR-kBlgtSm3wAsQAHwtXa4SFYSZ7-sV1SUxMrMAYFhMaEKhSMjdvmB-Db7Pfm32o_FM9OKTj-1xqBzPgmeuUWp-TatB3XmeBzufPV1qkrY-UmwWqjotuuiAmOIg..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+          "summary": "—AI工程化推进委员会2017年10月初,工业和信息化部正式批复中国信息通信研究院承建人工智能关键技术和评测工业和信息化部重点...",
+          "datetime": "2022-06-16 16:15:33",
+          "date_text": "2022年06月16日",
+          "date_description": "1374天前",
+          "source": "可信AI评测"
+        },
+        {
+          "title": "AI 工程化的五个维度:别再只聊 prompt 了",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9v6mTkJM8Rlk47MHBnqar_xVMtXcN8UWTZZKaFVigLxOsJ5deVgdEvmf4jx0WLQLkbW0ujtGye4doUY5kqoFXlRuhtbgSZ-Hs-fSRTEivxSaSDvwvUZiLVOmDGVodPhh4TMeEaokpZTHZvamY5Q0u81cC-Flw8F2KSUtRwZIW4mH1AfaFW2DefQ..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+          "summary": "AI 工程化的真正壁垒.四、从 Vibe Coding 到 Harness Engineering现在有个新词叫 ＂Vibe Coding＂ (氛围式编程)——凭借直觉和...",
+          "datetime": "2026-03-12 09:35:35",
+          "date_text": "2026年03月12日",
+          "date_description": "10天前",
+          "source": "猫切Web开发"
+        },
+        {
+          "title": "DGX Lab 实战:全功能 RAG 基础设施搭建完整指南",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9QWtdZXrrcnxVCH4tMbogflL8fnH6YbSTYZ6NVaC7gLoiECTL5ezED6t-reLb1l7-9Q6Xm-kwDBupxbhHzPig-yBVaTPtAzYUtwaB29kx6pJ24j7HyxjNM6n4KXPRjckcQD8Nz0elGQSS_ZlMMvheYP476iUTHRob2IyawmsGQsDuL0unUdKkuw..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+          "summary": "RAG 系统性能,需严格遵循 NVIDIA 官方推荐的版本组合从基础到进阶分步落地:先基于官方模板搭建基础 RAG 系统,完成功能验证...",
+          "datetime": "2026-03-01 09:03:51",
+          "date_text": "2026年03月01日",
+          "date_description": "21天前",
+          "source": "GPUS开发者"
+        },
+        {
+          "title": "智能体准确率提升200%的RAG系统实战(附完整源码)",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd99tk5DlC5UfpNZlUhTYE9976bWzG44qjgCqItuVja9FKlvbCviYK0sif-sBtOiuGtgPBOJWmS4j0jzxLDFf-vuWuCRhg-Db2BKJ0lUvllWvJdb0f5CjKjdbLwgIzP1KP1nR2E34ePMYOHdkqZtAFljgSbC6g_hlNP4MNfW-ik6HthWLv6O878UA..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+          "summary": "加微信获取完整源码:huice666/danwen668LangChain+Milvus检索质量纠错系统实战一、传统 RAG 的局限性1.1 传统 RAG 的核心假...",
+          "datetime": "2026-03-17 12:43:54",
+          "date_text": "2026年03月17日",
+          "date_description": "4天前",
+          "source": "慧测"
+        },
+        {
+          "title": "企业级 RAG 本地知识库问答系统全链路实战Spring Boot + LangChain4j + LlamaIndex",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9u9vEJz4K-8CD4_dkt3oa86i6uz8m6bOKviWgrlWixikLyHU0l74FMxYIpNf9xD5eJz6UwQcNxVHW1NSg2KzWxbz-AvyQOGy9xkkHFVVIBcSPYj4_Ls_FJlyPOfKBumXzm5_fUdd832xOos8XknBHpu82cWhbSInptb6Y3C7PNUGAFV_3u-a3OQ..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+          "summary": "10m系统架构总览核心模块实战模块一:混合检索服务(HybridRetrievalService)结论企业级 RAG 系统必须采用混合检索策略,将向...",
+          "datetime": "2026-02-17 10:50:38",
+          "date_text": "2026年02月17日",
+          "date_description": "32天前",
+          "source": "编程基础很重要"
+        },
+        {
+          "title": "【深度解析】多模态RAG系统实战:LLaVA+LangChain构建视觉知识库",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9KVqNUmyTwQCYACZoBGOihc5chcOn_gC7pBILP9yzl0fBno6WeTmuArDc1D6Xsk9tI9m5sm8Y47J9j6Vmfd_zEABjbKfTLTFfWV6M7ykgcj-4n3nTuB-JQaEMdHEvM07doWnvpf4QDC4m35XwBfTr4HAkDuS3q8c7ECvTM9x9S18HpHkoPMgL3A..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+          "summary": "部署多模态RAG系统后,变化很明显:检索质量提升:系统不仅能找到相关文本,还能定位到对应的结构图.效率变化:技术支持团队...",
+          "datetime": "2026-03-13 09:03:13",
+          "date_text": "2026年03月13日",
+          "date_description": "9天前",
+          "source": "出家二少"
+        },
+        {
+          "title": "破解大模型幻觉!2026最火AI RAG系统保姆级教程:架构+原理+实战+优化,技术人直接抄作业",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9weXCXtP-l4X2e4TtKXQMLZyh6GOGKADCku1_FVp-I_ddVRUgYtSXTR-ZCOwu6FojLQwIexmhLrEVjbpJ0eDQzjnaW41tMnSbek4-kga-k9jqPIDeuWoenYqfJcYGyyuCMdvSXHshvCBqDAZ5DqvfbuzqJo4GgK6rhjsCEE-IaNWAFV_3u-a3OQ..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+          "summary": "RAG 可视化系统＂)                  # 上传文档(可替换知识库)                  uploaded_file = st.file_uploader(＂上传PDF文档(替换知识库...",
+          "datetime": "2026-02-03 07:00:48",
+          "date_text": "2026年02月03日",
+          "date_description": "47天前",
+          "source": "天府AI"
+        },
+        {
+          "title": "AI-07 实战:Naive RAG实现公司HR制度智能问答系统",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9yulGhJvtd4DklVqM2FyOuIKOQGzbfehVINsXL83zns9aNT3TfaxQoYhdb9IQxvTcZ-EjSpMFIVQI45luxp9-N05xIaxP2dU8OZseSKYokzbK8QTvRGvlc9PvPh4ndZTWSA8fXxWvQVXpHgl0cpxXsSVGTwvybWIWGhX50Axsxkw5eBgmN3LoYQ..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+          "summary": "RAG(检索增强生成)问答系统.HR_RAG/├── app.py              ... 当你通过一个HR问答系统实战,看清了从《人事管理制度.docx》...",
+          "datetime": "2026-03-08 22:01:08",
+          "date_text": "2026年03月08日",
+          "date_description": "13天前",
+          "source": "码上大模型"
+        },
+        {
+          "title": "2026年AI Agent记忆系统实战-从RAG到全能记忆体(节选)",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9j5JIWulZyf66MaIk38xQlJletpo3Li9KRmO2wJ4MsQ_1rkuphePpA-3dnVLLrRqh0qdgF0cX1IAfK96r5hXHscf9PHiiNc13iuSp7CEBsDAenRiBXQlpiG8yPyo7AW2b5_SR4hRvwZ7F0GMC29gTzVfAAcXInjaSUs0giSMQymy54z_tGSZTqA..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+          "summary": "系统性地梳理了Agent记忆系统的最新进展.核心观点:记忆是Agent的核心能力,也是持续进化的基础.2026年的Agent记忆系统已经...",
+          "datetime": "2026-03-12 11:03:00",
+          "date_text": "2026年03月12日",
+          "date_description": "9天前",
+          "source": "树墩子的AI路"
+        },
+        {
+          "title": "RAG 系统安全威胁全景:从学术前沿到实战防御",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9yhHRFu01mQKGqviMrD_QFMcar83IrFDQyOa8vJbKm0UvetG5lmvvK83L46RGZlrrYgsolvMTwQp3WSDo8TbXMw5lN_CAaMymZHfHAu8TOW4DBIxUdHZaFWDNSnnc6tXr6Hbo_3Y3fyXw1hAF7GT0LT-xSZT7kcLT8zx2Xw_0KUDf3q8uRDTfkw..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+          "summary": "本文是 RAG-Shield 系列博客的第一篇,从USENIX Security 2025 的论文 PoisonedRAG 出发,全面分析 RAG 系统面临的安全威胁,...",
+          "datetime": "2026-01-30 14:31:37",
+          "date_text": "2026年01月30日",
+          "date_description": "50天前",
+          "source": "Sidereus"
+        },
+        {
+          "title": "RAG 实战 - 打造企业知识库问答系统",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9q9K1FirE8Yc7E39Z-Rxe-ae9MgLsMdzc52Ec-YXKR7bexV92i1T_CITkDhOOLAib6jjib2sz4tAKJegRPCMZlJ_eYODoobAqvsBYjhXBwabHLLcqb1o24MIYK5YdYCabARWGYykW1w238I0CEWNFQwSgCajhyBOJ_OHuyxYX-BgCYioxHkzTmA..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+          "summary": "RAG?简单来说RAG 就是在回答问题前,先去你的知识库里找相... // 从文件系统加载List documents=DocumentLoader....",
+          "datetime": "2026-02-06 20:01:00",
+          "date_text": "2026年02月06日",
+          "date_description": "43天前",
+          "source": "全栈生涯"
+        },
+        {
+          "title": "大模型实战:结合RAG构建自动问答系统",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd943NQ6ZvdhnRjG9SSGi9O8KpWnZft47fweUlRq2Go1qbg_QTJiKAssqbPoU33f_xdDcRilSvjHxvfFi0snNI1P3iqQjaKJg4jh1ghu3Cc_MuC-J_x4WLHAKJ--lnnPXx8fT_5g0_oPjqU3ZcU5NvRqyA6qiVT7Ri67m4V9gQT5kZQL0Hr9Gyd3Q..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+          "summary": "借助 LLM RAG 范式将大模型与客服场景的私有知识与数据相结合,构建客服自动问答系统,更及时准确地回答用户所遇到的问题,同...",
+          "datetime": "2024-01-18 18:06:02",
+          "date_text": "2024年01月18日",
+          "date_description": "793天前",
+          "source": "DataFunSummit"
+        },
+        {
+          "title": "Agent系统设计深度研究报告:架构演进、协作模式与未来范式",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd95IJwfm3GvRIWDw-U4dsWsh34OZ6qmKlsEbXPS1OX8T2FesK6FzJ6GLF6SHDU9wMHNpdF0po15dwU4YffB9AbzFwIkxQs4x0CgwuvzuijdQn64yaQIu43n_CaMpsaqXGatRKKZ1i-o3Sju87ItScn4jN9nTnSt_frc34qieyQ94ESYTqT4eyLmA..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+          "summary": "本报告旨在对Agent系统设计进行详尽的深度研究,涵盖从底层的认知架构到上层的多智能体编排,从内存管理机制到安全治理框架的...",
+          "datetime": "2026-01-30 10:50:43",
+          "date_text": "2026年01月30日",
+          "date_description": "50天前",
+          "source": "息一计"
+        },
+        {
+          "title": "拒绝纸上谈兵:如何设计一个可落地的AI Agent系统?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd931YxkfAL2guF-6p7FNF2QWfc84KtL3fYEkTF5d16z3zSRQlfXTxl1vQ3GawXIC8KBtDNAZSR6coWCTUdVHcksMI52qtsudAr01rL4F9lm88KjU9ndubBj0H7imfPD_PnW2J3IqSDFxs79k9eF4ogekpQDniCOpwEUXmY_EwHScBflztgI7RZ1g..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+          "summary": "本期文章将为你深度解析AI Agent的系统设计框架,从核心组件到设计范式,助你构建一个可靠的智能体系统.一、认知升级:软件3.0...",
+          "datetime": "2026-02-03 12:15:42",
+          "date_text": "2026年02月03日",
+          "date_description": "46天前",
+          "source": "华迪AI"
+        },
+        {
+          "title": "2026年,产品经理生死线:从功能设计到Agent指挥官",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9u4YQJw8weLDyn-dZ2WfEtMNN_alwxVIcqqk2zO1zbELrSvutXsOpg4Lr1wDFy5tVf2KccTEK_Gk-1UybnlPk5RnxyPhkhtfClwxlOiI0cE3HbfnV7WfX4dSB-wL15qgo9e95D6amQPdEA4p7k4EistlFB9qtF2aijiLUnG2sPQ86Ebq8fk9diw..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+          "summary": "核心是从“指令执行”转向“系统设计”.2. 从“写Prompt”到“... 写作Agent:装备“调研Skill”“大纲Skill”“润色Skill”基于MCP(...",
+          "datetime": "2026-03-20 08:31:29",
+          "date_text": "2026年03月20日",
+          "date_description": "2天前",
+          "source": "PM经验与前沿科技分享部落"
+        },
+        {
+          "title": "AI Agent 记忆系统框架设计方案",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd97fdpWAI6y6unoqCRBLPY1hCL-McqVTH80E4aoBC8mEQcfziILBuqolzieBCnIG9cHwAUL4R6u3XEGm-1pxZOV8HzmbLoNmFhsmVN7omPIEQnnOuLH0NPSg8BDOhMkScbdWUV4Dec4cC8WTSUTTQNxWC6SQ5UJ0aIWYqHDXwwDShflztgI7RZ1g..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+          "summary": "AI Agent 记忆系统框架设计方案本文总结了一套在AI智能体(... 记忆系统设计与技术文章撰写---## 关键决策1. 采用三层记忆架构...",
+          "datetime": "2026-03-18 08:28:25",
+          "date_text": "2026年03月18日",
+          "date_description": "4天前",
+          "source": "爱画画的程序员"
+        },
+        {
+          "title": "Agent系统设计:从单体到协作",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9LYEBXL1I9cc7UKFK0TJ2vojXXRYwjFsQElyKMi_TCqE4cCsazuHzjpgAlTMV1gIwZvn8C5a-x5dD6HE5wZmcZsqWTKCwOKMO6QV_aIdPK6xAth5gqx9i82GkNS-VNjGrHgIgBWgKDYKzQfC5Doi0WHQZCNl7hTsmY5ZGYoe6aGBQL0Hr9Gyd3Q..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+          "summary": "Multi-Agent 的协作机制,我们看到了 AI Agent 系统设计的三种核心模式.设计模式选型指南:ReAct 模式适用场景: 需要动态推理、...",
+          "datetime": "2026-02-05 05:00:25",
+          "date_text": "2026年02月05日",
+          "date_description": "45天前",
+          "source": "NothingNoteBook"
+        },
+        {
+          "title": "当下最流行的AI Agent系统架构设计",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9LCmCktt0gVA4Ki-pHEMyvDQYa46MCYqdMyjUWw1kwu2G7eeU8FDO9CVWt07Vdvi0EVFoWmqRhPzMKwZZNHwhbYu9UUfFlP_UdHnH44iPfO2K4_xYVOCeKgi-1i9mdi5-l_UBOSS6f97WgUCeYrysEhDJg6mlh_QReVJAfd_ZnEMNGbbB75bUeA..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+          "summary": "AI Agent 作为具备自主行为能力的智能体,其系统架构设计对功能实现与性能表现至关重要.本文基于 LLM 的AI Agent系统架构设计,...",
+          "datetime": "2026-02-13 20:57:53",
+          "date_text": "2026年02月13日",
+          "date_description": "36天前",
+          "source": "大模型上车指南"
+        },
+        {
+          "title": "AI 记忆系统设计:让你的 Agent 拥有长期记忆",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9xWFE6tt_0aItl1wUgiTfHPYj0QyriVgtQzNh-TsEccNBsv9axE7t_f-7PSkxf9TPEeGKnDfmIsEr40sSQQZ2A5HtBIDtCyUo6OyPcWmpMOv-RIj9Esfb6Awe6P5tebLfxeNiHooRfmaTbBWWUcL2HK28m0VT-a0XDhTYXlNi5wXvzHZXxeLdyg..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+          "summary": "加速成长,用思维模型决策人生    AI 记忆系统设计:让你的 Agent 拥有长期记忆  没有记忆的 AI 只是工具,有记忆的 AI 才是伙伴.   ...",
+          "datetime": "2026-03-19 10:45:28",
+          "date_text": "2026年03月19日",
+          "date_description": "2天前",
+          "source": "元灵创局-九氧"
+        },
+        {
+          "title": "从＂两个披萨团队＂到多Agent系统:管理幅度的数学与直觉--组织行为学与AGENT设计02",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9OUpORYan93BoY6PNpcaKs4inYxpHlPkLic9Exhzm3tF0tWMZKAECTcq2zxG6zqUi9AVRpOveL-DUQxM7WSEzeeA8alPetzYUI6179XLD0SgM1dWgCVhPLS4wt0Op-2S56u42OWzmHUpU6FIF_vxAcC4YyPfwN0eB_vxfIV65-cXm0CtGSSkZQQ..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+          "summary": "不要在系统设计阶段硬编码一个固定的管理幅度,而是根据每个任务的属性动态计算合理的幅度.落地实践:多Agent代码审查系统让...",
+          "datetime": "2026-03-20 17:30:48",
+          "date_text": "2026年03月20日",
+          "date_description": "1天前",
+          "source": "逆共识"
+        },
+        {
+          "title": "多 Agent 系统设计误区,别按「角色职能」拆分 Agent",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9AzAG7wNVv5gge6rQrAeV3OElnCJeQHrE07wda0OdhAS5D5FGT3KjihbWgf8Y6mOeROtlXx-Jl7OffbTM0TfBFXLxpsEs3Ngv9Uu7FaxRgBQ1s23QutSPPAaUkB-KXAoNc1BH3b8AA4fUUrO8OdZitwaZRME-FaTJp0-kIUV-3aU89kyxDwoXvg..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+          "summary": "AI Agent 的系统设计,应彻底抛弃 “角色职能” 思维,以上下文依赖关系为唯一标准,才能真正释放多 Agent 系统的效率、成本与可...",
+          "datetime": "2026-02-11 11:32:15",
+          "date_text": "2026年02月11日",
+          "date_description": "38天前",
+          "source": "段贤锐的记事本"
+        },
+        {
+          "title": "如何设计一个AI Agent系统",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9Q94Qhz94r1xNqrE4v8r_8tuj7VXzi08KxtjxEUN-VTYRFuLvwBwCaKTUp8_s6Uc9dpAR3TVIaMlt4Kap0EBmgzSL9xpcNf06jL9VQ48gLPY2CWURnVpWTSb9LqJxs5lI1JfRHsdPWe5uVHzKCQqOsPcxVRe0AkI9q0pHmvAuozryPfCoem7FzA..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+          "summary": "本文系统性地阐述了如何从工程实践角度设计、实现和落地一个可控且可用的 AI Agent 系统.全文以大模型(LLM)为认知核心,围绕...",
+          "datetime": "2026-01-26 16:53:44",
+          "date_text": "2026年01月26日",
+          "date_description": "54天前",
+          "source": "大淘宝技术"
+        }
+      ],
+      "description": "AI 应用工程化实践、LLM 应用开发、RAG 系统实战",
+      "queries": [
+        "AI 工程化",
+        "RAG 系统实战",
+        "Agent 系统设计"
+      ]
+    },
+    "面试成长": {
+      "query_count": 1,
+      "article_count": 10,
+      "articles": [
+        {
+          "title": "【面试招聘】拼多多 AI算法岗面试(附带解析)",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9aV4m1Hqth4Ym8lKvAGoRD-DCG_KYplzdtfRqHOalJHiV8MoZh-L4v825mhJwxA1tz0FsjjBsHq9tLGAxm7GRuMPYG7seU22DYFz-S9dgW2yoKCXNyIQGTklHCRFojRAEsh6mzPLMwpmhTjSu4m5PmnuyYZ5NNA7EiIS4tOeWF7kCn9lOoZLP2Q..&type=2&query=AI %E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E8%AF%95&token=D2385417DBB129AE898FC419F0AD20E18A01E14369BF5070",
+          "summary": "python撕BN层前向算法4 线程和进程的区别5 SVM和逻辑回归在分... 的代码复现专辑AI基础下载机器学习的数学基础专辑获取一折本站...",
+          "datetime": "2020-08-22 12:00:17",
+          "date_text": "2020年08月22日",
+          "date_description": "2037天前",
+          "source": "机器学习初学者"
+        },
+        {
+          "title": "2019 秋招面经(AI、算法岗)",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9bx9OsNr4UBQPvVdwk-Vr4_3RG0n3rgT8e_3Dg1nJ_5Ht--ZHsUg5W6G1MG1UIcDOUygjbYST0z4zGPidRl58152TiE-KajUYyLn8bAt02jErFUUANbVnTpkQf-SISJULMa7ir83dgeOEvADJRkpEBNOcLB1f8xLrejoNVFzvlNI6Ebq8fk9diw..&type=2&query=AI %E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E8%AF%95&token=D2385417DBB129AE898FC419F0AD20E18A01E14369BF5070",
+          "summary": "AI 算法岗的面试而焦虑.慌什么?Just do it.只要你有去 AI 行业的... 可以说一应俱全,是一份不错的算法岗面试指南,下面一一进行介...",
+          "datetime": "2019-05-04 12:10:25",
+          "date_text": "2019年05月04日",
+          "date_description": "2513天前",
+          "source": "AI有道"
+        },
+        {
+          "title": "欢迎加入聚集千人的 AI 算法岗求职群!(含面试经验和内推机会)",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9o6xwFg5B-oVK4kYaS5_mhkMJtteTzjo6ReviSRLwCJXZFUUdl9sTXCXfPdZgCsY4IxeY6OPmoWeF6p4bybMr7yOx9MDPJtTEdHicyg0uKm7Np2S2gVBi_j9pKnMbnkOq1CMgHwaJTJTrxX_9cSNREH8WDnFyY74gOqKIiKuOAhgO8fIRwtipOg..&type=2&query=AI %E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E8%AF%95&token=D2385417DBB129AE898FC419F0AD20E18A01E14369BF5070",
+          "summary": "前言＂2019 AI 算法岗求职群＂ 是一个面向全体学生和算法工程师/研究员的求职交流平台.旨在分享 AI 算法岗的校招/社招准备攻略、...",
+          "datetime": "2019-08-24 11:53:20",
+          "date_text": "2019年08月24日",
+          "date_description": "2401天前",
+          "source": "深度学习工坊"
+        },
+        {
+          "title": "这是一份AI算法岗的简历...",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9V-NxZQXntSjl4udUU5K-t8W-okJ8uAQUYqKY3paMe4Nn-6aB8LvFU6jJwUyOxqW8dMff3H-JwhFGHihw9et5uL7EOTmb2mQY-MqR1ubKpLbdcWvMm-y9U3-0nLuu6hooHIOqJ565dtHmKtEFqGr5HcvfPjGYY0Y_XM71gNJXecfRtmyIGw2VAg..&type=2&query=AI %E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E8%AF%95&token=D2385417DBB129AE898FC419F0AD20E18A01E14369BF5070",
+          "summary": "整理的一个AI算法岗面试题库,累计900+个问题与解答.涉及的领域众多,具体如下.同时求职群里每周都会更新很多面经,方便查漏...",
+          "datetime": "2021-06-20 00:00:04",
+          "date_text": "2021年06月20日",
+          "date_description": "1736天前",
+          "source": "CVer"
+        },
+        {
+          "title": "2023年AI算法岗求职群来了!",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9V-NxZQXntSjl4udUU5K-t8W-okJ8uAQUYqKY3paMe4Nn-6aB8LvFU2eXYsySJ2dVjwCw-m_Ms5Z109v6XY8XPqhkk5P5sn2173F99gLgXHTZpV0812RdTfj1r2O7VNGoA1nQQAtPLIUtQxx5lC9YB1zfYLhqyrom0398l8XLlinP28temKTOwg..&type=2&query=AI %E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E8%AF%95&token=D2385417DBB129AE898FC419F0AD20E18A01E14369BF5070",
+          "summary": "整理的一个AI算法岗面试题库,累计900+个问题与解答.涉及的领域众多,具体如下.同时求职群里每周都会更新很多面经,方便查漏...",
+          "datetime": "2022-11-04 23:59:05",
+          "date_text": "2022年11月04日",
+          "date_description": "1233天前",
+          "source": "CVer"
+        },
+        {
+          "title": "这是一份AI算法岗的简历...",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9V-NxZQXntSjl4udUU5K-t8W-okJ8uAQUYqKY3paMe4Nn-6aB8LvFUzF4yLCcn04ESMTDPJLaHL0evDsOff4qrYhpF_-XuHH1wIJlgBaC3crEdB0H8X5AoH_mXJz648WGaW-bIaWXxv2DB6KOsb-8A5nvvswVIIrhPwzEblR3SMXs46dn8Efgxg..&type=2&query=AI %E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E8%AF%95&token=D2385417DBB129AE898FC419F0AD20E18A01E14369BF5070",
+          "summary": "整理的一个AI算法岗面试题库,累计900+个问题与解答.涉及的领域众多,具体如下.同时求职群里每周都会更新很多面经,方便查漏...",
+          "datetime": "2023-08-18 14:07:21",
+          "date_text": "2023年08月18日",
+          "date_description": "946天前",
+          "source": "CVer"
+        },
+        {
+          "title": "AI算法岗都灰飞烟灭了,我该如何找工作?",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9V-NxZQXntSjl4udUU5K-t8W-okJ8uAQUYqKY3paMe4Nn-6aB8LvFUx6tIAC77BxJhXlVX980NIN4P8UxNY66t_6JyV38U7xjqV76pN6-6ROdl9iEO2y4yG2HlNHsIoB5phdiiI7XZkthSzWDcyEd2Xqs_4pCgDoySeC-GrB3t70NGbbB75bUeA..&type=2&query=AI %E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E8%AF%95&token=D2385417DBB129AE898FC419F0AD20E18A01E14369BF5070",
+          "summary": "整理的一个AI算法岗面试题库,累计550+个问题与解答.涉及的方向众多,具体如下.同时求职群里每周都会更新很多面经.提问...",
+          "datetime": "2020-12-23 13:06:54",
+          "date_text": "2020年12月23日",
+          "date_description": "1914天前",
+          "source": "CVer"
+        },
+        {
+          "title": "我建了一个AI算法岗求职群!",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9V-NxZQXntSjl4udUU5K-t8W-okJ8uAQUYqKY3paMe4Nn-6aB8LvFUw-2yDaV-eEUVuvP9TUPpBKjv70X_oIfsj4ofegm9Dxm-ga55y4EbROZCHxF7W32XSwDilm1wQFiH1mjPLhZDIvnzWNoJZKqDwwWfTdIlQ0ctaXeDWmLyWNj3x9Nw6p-Fg..&type=2&query=AI %E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E8%AF%95&token=D2385417DBB129AE898FC419F0AD20E18A01E14369BF5070",
+          "summary": "整理的一个AI算法岗面试题库,累计600+个问题与解答.涉及的方向众多,具体如下.同时求职群里每周都会更新很多面经.提问...",
+          "datetime": "2021-02-21 00:06:24",
+          "date_text": "2021年02月21日",
+          "date_description": "1855天前",
+          "source": "CVer"
+        },
+        {
+          "title": "2022 找工作!我建了一个AI算法岗求职群",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9V-NxZQXntSjl4udUU5K-t8W-okJ8uAQUYqKY3paMe4Nn-6aB8LvFU1j207oMxh_Ug3omBOx0cUvPIzMciw960uKlL1CWq7ETMvuXGHgceuum-MM-Dyozg0tb8CQLRfyT1lsTeG1w8MmEoUL7uCCV78UTKvZADtmWciVITE7TzLQNGbbB75bUeA..&type=2&query=AI %E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E8%AF%95&token=D2385417DBB129AE898FC419F0AD20E18A01E14369BF5070",
+          "summary": "整理的一个AI算法岗面试题库,累计900+个问题与解答.涉及的领域众多,具体如下.同时求职群里每周都会更新很多面经,方便查漏...",
+          "datetime": "2022-03-15 23:59:39",
+          "date_text": "2022年03月15日",
+          "date_description": "1467天前",
+          "source": "CVer"
+        },
+        {
+          "title": "最大的AI算法岗求职群来了!",
+          "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9Yx98Bo8D5xIvPRBTT1pojgdYrN2M4JKn7reY3_sdtU1orSP3cYgeHcvDzuPcsVAYQWLkonAU2yyYxDid5MnkVzkPv92bHAIaeQ9tAfoRTJ2NR1xWCwhPcoGyEGrhqFygY2UwyGoRLqeDrcbGIvj6K_DSTmFtlowY1EVh369qivMY-UZGbO56rA..&type=2&query=AI %E7%AE%97%E6%B3%95%E5%B2%97%E9%9D%A2%E8%AF%95&token=D2385417DBB129AE898FC419F0AD20E18A01E14369BF5070",
+          "summary": "整理的一个AI算法岗面试题库,累计900+个问题与解答.涉及的领域众多,具体如下.同时求职群里每周都会更新很多面经,方便查漏...",
+          "datetime": "2023-07-31 23:59:17",
+          "date_text": "2023年07月31日",
+          "date_description": "964天前",
+          "source": "计算机视觉Daily"
+        }
+      ],
+      "description": "AI 算法岗面试、大模型开发面试、技术面试真题",
+      "queries": [
+        "AI 算法岗面试"
+      ]
+    }
+  }
+}

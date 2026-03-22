@@ -1,0 +1,96 @@
+{
+  "query": "AI 工程化",
+  "total": 10,
+  "articles": [
+    {
+      "title": "AI 工程化:构建高效 AI 应用的全面指南",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9w4oW62ZEwial5y2oKIEUuHH_hC-szRum9QNDrvVb8LrDyKrXGneHY8p9HFP09qrXncTC4tqESqNdesBfKDIoRsL8HWX79gcVKllkZqRd8_1DgT8720Y972k6_0IxxOdwg5ItFy5OlJOTRtZVjJkxoL4hFm5_U_ICtafBT1ym27lFH6In5Ei3zg..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+      "summary": "AI 应用呢,这就涉及到了 AI 工程化建设.在整个 AI 工程化建设的过程中,有很多核心的模块,主要包括:DataOps,MLOps,DevOps ...",
+      "datetime": "2023-10-12 13:43:33",
+      "date_text": "2023年10月12日",
+      "date_description": "891天前",
+      "source": "InfoQ"
+    },
+    {
+      "title": "宇视AI工程化 我们找产品总工聊了聊落地这回事",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9T78n8cxHhwf-H6sex7UkpEkkvh8AFl8eES4rGJVgp-qir05ku0QSpTOX3u3XoS7cJY_yKGPKkta_DgmpfrqGeuWTK_etgyhIWbRgFTM_nAvHQYYPKxWqF7ACO6RvPtqWMl2oIqJy-4tfpb9IdWuKOlJVy1dizOZR8UlAbaV8Ky5OJBjQH7pCxQ..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+      "summary": "导读当我们在讨论AI落地的时候,宇视科技产品部后端总工葛天宇一直反复提起“AI工程化”一词,该词在宇视总裁张鹏国发表的《北...",
+      "datetime": "2018-11-15 18:46:37",
+      "date_text": "2018年11月15日",
+      "date_description": "2683天前",
+      "source": "智慧安防网"
+    },
+    {
+      "title": "AI工程化:不止于技术,更是汽车行业智能化的必经之路",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9njKTHBjYXGHtvrDPzHZP7gtiMTp_9D9UlpclwM_MePl8hEBFrY_8eJIAvhMWhqOMMZsdc92gPygBt7U2uDKs0cIBO04EO7RbP3hmBdDtRMCkjsrNP8oNt-uxBHkDPyx3oxecyuYJ93KHmN9E287Rrd-_g6d4YxBwhLW3rpeasK4O8fIRwtipOg..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+      "summary": "AI工程化不是对AI技术的升级,而是对AI落地逻辑的重构:它将软件工程的标准化、自动化、可复用思维,融入AI全生命周期,让AI从...",
+      "datetime": "2026-02-02 19:30:10",
+      "date_text": "2026年02月02日",
+      "date_description": "47天前",
+      "source": "Rational 软件定义世界"
+    },
+    {
+      "title": "Python搞模型,.NET落地:AI 工程化首选.NET",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9v4f5KPJ1387dOcBcn4goh3KN96dZSsTCOOkM6k-VpkdYwD52NFUpVV1qBJKyDw7BeqpqU0G-7y0SAxqB5OfO27tiIk6wB9raxrk6MgMp1TV5jiK0VK1MmtNRGMG7xLkYjfFQsfjp49rUvBA1PhGGHkQliH_YzUeIRcgcFhjXE8nm0CtGSSkZQQ..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+      "summary": "AI 工程化落地的最优解 —— 形成 “Python 做模型研发,.NET 做工程化落地” 的黄金组合,已成为众多企业 AI 落地的首选路径.一、...",
+      "datetime": "2026-03-19 22:00:14",
+      "date_text": "2026年03月19日",
+      "date_description": "2天前",
+      "source": ".net架构师大佬"
+    },
+    {
+      "title": "[送5本书]AI工程化— 如何让AI在企业多快好省的落地?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9ICML59MdzqxajVvN5F-qr18tVJmM4zR3_YYHrOUKVrVfvOlD_Dn-tGE6VrQFbG10v7a0y-8YnemhGvtcqu2blLzccsNyMkdApOhTcH-A4iGp-kqFQn4l4bDfvF35t8dob2Jsq82rP1ZmrdZ_r19VP2y9Tx8fNL_4sDXc-E2HN0bS-e4Yz84xMA..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+      "summary": "329直播预告AI工程化—— 如何让AI在企业多快好省的落地?AI 2.0时代,要不要学习MLOPS?MLOps推理的挑战以及大模型时代的推...",
+      "datetime": "2023-10-08 08:00:39",
+      "date_text": "2023年10月08日",
+      "date_description": "896天前",
+      "source": "深度学习与NLP"
+    },
+    {
+      "title": "Java+AI工程化趋势:像混合动力汽车一样双引擎驱动,企业转型成功率提升47%",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9H0CnWyaW_Fj0rs2pa60p-PfD0LrEXoS0kTjAMmXCbbu_xMPgLk-bQO5kpv1ls7SBCdrVocqjpnyK2iQYMnoBXr6_hpApj2Q-wdOany9a6DHiyCMp2lsZLaDN9dgrU-oamG1xMfdo1W04pjprLN6QeYNMkE0Tad_QBvv0YZQdGoP1AfaFW2DefQ..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+      "summary": "金句摘要:Spring AI Alibaba引领Java+AI工程化新范式,像混合动力汽车的双引擎系统,将传统Java生态与大模型能力完美融合.企...",
+      "datetime": "2026-03-20 21:00:49",
+      "date_text": "2026年03月20日",
+      "date_description": "1天前",
+      "source": "小黄学算法"
+    },
+    {
+      "title": "美林数据董事长开年致辞:以AI工程化开启工业智能新征程",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9uf56MSCy8YzRGuIsV0vj6jJWOosQva_-IAcD25rb0xxUT07789l56Mt8QdXwgQ37On3wRuzYVr3GpSrrY3JjEDKNlDSgztstOTRkMKgAfZAtlX2VFcwSnP47ChDJiDwMYC2QKvhHKgE2ioszsitNAYm7N7PwjYs2AuULwZKrFxXFcvUoAZZH7Q..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+      "summary": "工程化平台创新AI工程服务模式,解决“最后一公里”问题,让AI技术真正嵌入生产流程.为践行公司AI+战略,深化AI赋能落地,美林...",
+      "datetime": "2026-01-29 18:20:08",
+      "date_text": "2026年01月29日",
+      "date_description": "51天前",
+      "source": "美林数据"
+    },
+    {
+      "title": "AI工程化|宇视2019全国巡展解密AI的真相",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9RBf40jt7TVjZO1ulvtdvJIiCV7RFYMP5WciGP9Pr7o7eGjE2ZIfugkOxcNLd1Bb1iPjOamdBfJf0ompxm8Gwfkz3hH34HeOUS9IH9hRi0N7MZvNI6rs2OkNO55oabyxb9g3o8mHEeDyo0_A9raBIGuFZzFeaKEfLZ7W9cmR8EZVj3x9Nw6p-Fg..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+      "summary": "2019年4月~6月,宇视科技(uniview)将在全国70余城市召开AI工程化新产品新服务全国巡展活动,主题『无宇伦比 智视未来』.现...",
+      "datetime": "2019-04-09 18:56:26",
+      "date_text": "2019年04月09日",
+      "date_description": "2538天前",
+      "source": "宇视科技"
+    },
+    {
+      "title": "可信AI|“人工智能工程化发展研究报告”第二次研讨会成功举行",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9dN25_t7BlNtdd6l3sN43EZ2vgQ-ze4x2NBjm9AVChQYUfcM17NosZVyklbWZR-kBlgtSm3wAsQAHwtXa4SFYSZ7-sV1SUxMrMAYFhMaEKhSMjdvmB-Db7Pfm32o_FM9OKTj-1xqBzPgmeuUWp-TatB3XmeBzufPV1qkrY-UmwWqjotuuiAmOIg..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+      "summary": "—AI工程化推进委员会2017年10月初,工业和信息化部正式批复中国信息通信研究院承建人工智能关键技术和评测工业和信息化部重点...",
+      "datetime": "2022-06-16 16:15:33",
+      "date_text": "2022年06月16日",
+      "date_description": "1374天前",
+      "source": "可信AI评测"
+    },
+    {
+      "title": "AI 工程化的五个维度:别再只聊 prompt 了",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9v6mTkJM8Rlk47MHBnqar_xVMtXcN8UWTZZKaFVigLxOsJ5deVgdEvmf4jx0WLQLkbW0ujtGye4doUY5kqoFXlRuhtbgSZ-Hs-fSRTEivxSaSDvwvUZiLVOmDGVodPhh4TMeEaokpZTHZvamY5Q0u81cC-Flw8F2KSUtRwZIW4mH1AfaFW2DefQ..&type=2&query=AI %E5%B7%A5%E7%A8%8B%E5%8C%96&token=D23853F47C168F0B2D2A60BF5509817C2D49CAF269BF5070",
+      "summary": "AI 工程化的真正壁垒.四、从 Vibe Coding 到 Harness Engineering现在有个新词叫 ＂Vibe Coding＂ (氛围式编程)——凭借直觉和...",
+      "datetime": "2026-03-12 09:35:35",
+      "date_text": "2026年03月12日",
+      "date_description": "10天前",
+      "source": "猫切Web开发"
+    }
+  ]
+}

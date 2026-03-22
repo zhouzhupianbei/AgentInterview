@@ -1,0 +1,96 @@
+{
+  "query": "Agent 系统设计",
+  "total": 10,
+  "articles": [
+    {
+      "title": "Agent系统设计深度研究报告:架构演进、协作模式与未来范式",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd95IJwfm3GvRIWDw-U4dsWsh34OZ6qmKlsEbXPS1OX8T2FesK6FzJ6GLF6SHDU9wMHNpdF0po15dwU4YffB9AbzFwIkxQs4x0CgwuvzuijdQn64yaQIu43n_CaMpsaqXGatRKKZ1i-o3Sju87ItScn4jN9nTnSt_frc34qieyQ94ESYTqT4eyLmA..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+      "summary": "本报告旨在对Agent系统设计进行详尽的深度研究,涵盖从底层的认知架构到上层的多智能体编排,从内存管理机制到安全治理框架的...",
+      "datetime": "2026-01-30 10:50:43",
+      "date_text": "2026年01月30日",
+      "date_description": "50天前",
+      "source": "息一计"
+    },
+    {
+      "title": "拒绝纸上谈兵:如何设计一个可落地的AI Agent系统?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd931YxkfAL2guF-6p7FNF2QWfc84KtL3fYEkTF5d16z3zSRQlfXTxl1vQ3GawXIC8KBtDNAZSR6coWCTUdVHcksMI52qtsudAr01rL4F9lm88KjU9ndubBj0H7imfPD_PnW2J3IqSDFxs79k9eF4ogekpQDniCOpwEUXmY_EwHScBflztgI7RZ1g..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+      "summary": "本期文章将为你深度解析AI Agent的系统设计框架,从核心组件到设计范式,助你构建一个可靠的智能体系统.一、认知升级:软件3.0...",
+      "datetime": "2026-02-03 12:15:42",
+      "date_text": "2026年02月03日",
+      "date_description": "46天前",
+      "source": "华迪AI"
+    },
+    {
+      "title": "2026年,产品经理生死线:从功能设计到Agent指挥官",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9u4YQJw8weLDyn-dZ2WfEtMNN_alwxVIcqqk2zO1zbELrSvutXsOpg4Lr1wDFy5tVf2KccTEK_Gk-1UybnlPk5RnxyPhkhtfClwxlOiI0cE3HbfnV7WfX4dSB-wL15qgo9e95D6amQPdEA4p7k4EistlFB9qtF2aijiLUnG2sPQ86Ebq8fk9diw..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+      "summary": "核心是从“指令执行”转向“系统设计”.2. 从“写Prompt”到“... 写作Agent:装备“调研Skill”“大纲Skill”“润色Skill”基于MCP(...",
+      "datetime": "2026-03-20 08:31:29",
+      "date_text": "2026年03月20日",
+      "date_description": "2天前",
+      "source": "PM经验与前沿科技分享部落"
+    },
+    {
+      "title": "AI Agent 记忆系统框架设计方案",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd97fdpWAI6y6unoqCRBLPY1hCL-McqVTH80E4aoBC8mEQcfziILBuqolzieBCnIG9cHwAUL4R6u3XEGm-1pxZOV8HzmbLoNmFhsmVN7omPIEQnnOuLH0NPSg8BDOhMkScbdWUV4Dec4cC8WTSUTTQNxWC6SQ5UJ0aIWYqHDXwwDShflztgI7RZ1g..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+      "summary": "AI Agent 记忆系统框架设计方案本文总结了一套在AI智能体(... 记忆系统设计与技术文章撰写---## 关键决策1. 采用三层记忆架构...",
+      "datetime": "2026-03-18 08:28:25",
+      "date_text": "2026年03月18日",
+      "date_description": "4天前",
+      "source": "爱画画的程序员"
+    },
+    {
+      "title": "Agent系统设计:从单体到协作",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9LYEBXL1I9cc7UKFK0TJ2vojXXRYwjFsQElyKMi_TCqE4cCsazuHzjpgAlTMV1gIwZvn8C5a-x5dD6HE5wZmcZsqWTKCwOKMO6QV_aIdPK6xAth5gqx9i82GkNS-VNjGrHgIgBWgKDYKzQfC5Doi0WHQZCNl7hTsmY5ZGYoe6aGBQL0Hr9Gyd3Q..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+      "summary": "Multi-Agent 的协作机制,我们看到了 AI Agent 系统设计的三种核心模式.设计模式选型指南:ReAct 模式适用场景: 需要动态推理、...",
+      "datetime": "2026-02-05 05:00:25",
+      "date_text": "2026年02月05日",
+      "date_description": "45天前",
+      "source": "NothingNoteBook"
+    },
+    {
+      "title": "当下最流行的AI Agent系统架构设计",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9LCmCktt0gVA4Ki-pHEMyvDQYa46MCYqdMyjUWw1kwu2G7eeU8FDO9CVWt07Vdvi0EVFoWmqRhPzMKwZZNHwhbYu9UUfFlP_UdHnH44iPfO2K4_xYVOCeKgi-1i9mdi5-l_UBOSS6f97WgUCeYrysEhDJg6mlh_QReVJAfd_ZnEMNGbbB75bUeA..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+      "summary": "AI Agent 作为具备自主行为能力的智能体,其系统架构设计对功能实现与性能表现至关重要.本文基于 LLM 的AI Agent系统架构设计,...",
+      "datetime": "2026-02-13 20:57:53",
+      "date_text": "2026年02月13日",
+      "date_description": "36天前",
+      "source": "大模型上车指南"
+    },
+    {
+      "title": "AI 记忆系统设计:让你的 Agent 拥有长期记忆",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9xWFE6tt_0aItl1wUgiTfHPYj0QyriVgtQzNh-TsEccNBsv9axE7t_f-7PSkxf9TPEeGKnDfmIsEr40sSQQZ2A5HtBIDtCyUo6OyPcWmpMOv-RIj9Esfb6Awe6P5tebLfxeNiHooRfmaTbBWWUcL2HK28m0VT-a0XDhTYXlNi5wXvzHZXxeLdyg..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+      "summary": "加速成长,用思维模型决策人生    AI 记忆系统设计:让你的 Agent 拥有长期记忆  没有记忆的 AI 只是工具,有记忆的 AI 才是伙伴.   ...",
+      "datetime": "2026-03-19 10:45:28",
+      "date_text": "2026年03月19日",
+      "date_description": "2天前",
+      "source": "元灵创局-九氧"
+    },
+    {
+      "title": "从＂两个披萨团队＂到多Agent系统:管理幅度的数学与直觉--组织行为学与AGENT设计02",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9OUpORYan93BoY6PNpcaKs4inYxpHlPkLic9Exhzm3tF0tWMZKAECTcq2zxG6zqUi9AVRpOveL-DUQxM7WSEzeeA8alPetzYUI6179XLD0SgM1dWgCVhPLS4wt0Op-2S56u42OWzmHUpU6FIF_vxAcC4YyPfwN0eB_vxfIV65-cXm0CtGSSkZQQ..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+      "summary": "不要在系统设计阶段硬编码一个固定的管理幅度,而是根据每个任务的属性动态计算合理的幅度.落地实践:多Agent代码审查系统让...",
+      "datetime": "2026-03-20 17:30:48",
+      "date_text": "2026年03月20日",
+      "date_description": "1天前",
+      "source": "逆共识"
+    },
+    {
+      "title": "多 Agent 系统设计误区,别按「角色职能」拆分 Agent",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9AzAG7wNVv5gge6rQrAeV3OElnCJeQHrE07wda0OdhAS5D5FGT3KjihbWgf8Y6mOeROtlXx-Jl7OffbTM0TfBFXLxpsEs3Ngv9Uu7FaxRgBQ1s23QutSPPAaUkB-KXAoNc1BH3b8AA4fUUrO8OdZitwaZRME-FaTJp0-kIUV-3aU89kyxDwoXvg..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+      "summary": "AI Agent 的系统设计,应彻底抛弃 “角色职能” 思维,以上下文依赖关系为唯一标准,才能真正释放多 Agent 系统的效率、成本与可...",
+      "datetime": "2026-02-11 11:32:15",
+      "date_text": "2026年02月11日",
+      "date_description": "38天前",
+      "source": "段贤锐的记事本"
+    },
+    {
+      "title": "如何设计一个AI Agent系统",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9Q94Qhz94r1xNqrE4v8r_8tuj7VXzi08KxtjxEUN-VTYRFuLvwBwCaKTUp8_s6Uc9dpAR3TVIaMlt4Kap0EBmgzSL9xpcNf06jL9VQ48gLPY2CWURnVpWTSb9LqJxs5lI1JfRHsdPWe5uVHzKCQqOsPcxVRe0AkI9q0pHmvAuozryPfCoem7FzA..&type=2&query=Agent %E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&token=D2388323CDA63EBB9C9BD10EE409E5CD9DB665D869BF5077",
+      "summary": "本文系统性地阐述了如何从工程实践角度设计、实现和落地一个可控且可用的 AI Agent 系统.全文以大模型(LLM)为认知核心,围绕...",
+      "datetime": "2026-01-26 16:53:44",
+      "date_text": "2026年01月26日",
+      "date_description": "54天前",
+      "source": "大淘宝技术"
+    }
+  ]
+}

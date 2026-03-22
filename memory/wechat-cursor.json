@@ -1,0 +1,96 @@
+{
+  "query": "Cursor 编程",
+  "total": 10,
+  "articles": [
+    {
+      "title": "AI编程巨头Cursor深陷“套壳”风波:自研Composer 2实为月之暗面Kimi K2.5",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9jb4rUyrVXDd1akilMKf72rjtDhbqR1qQovwEgxP06KxUHlVZHwSfBMZ8vW0LRMEE4oGGXukWU34FGwrLwJOUeMeitF19HpIQSwkyAtrdIisrbOMEmvWhock-boeioWCt_Jw7ec6pCMccbA4WNp4ivY3YAQKaONiODH4fPeVxIiPf3q8uRDTfkw..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+      "summary": "估值500亿美金的AI编程工具Cursor被曝自研模型Composer 2实为月之暗面Kimi K2.5.通过API抓包发现底层模型ID,引发技术圈关于...",
+      "datetime": "2026-03-21 19:58:57",
+      "date_text": "2026年03月21日",
+      "date_description": "14小时前",
+      "source": "硅基生物观察室"
+    },
+    {
+      "title": "开启 AI 编程之旅:Cursor 下载、安装与配置全攻略",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9vkLf6YlBCIOjthJgGSI2IlHrgtO80PT8SNZu3lw2NzgCjBpHM_PbnRd0XmAnypVMo392jtLLDLZCW187nRiqLmFGk-eWBETtPqrWaKzkxFcZ7Z1TfsZRX_DAZ5FQVAY5kpckSU1V-Y8_Ct2D_ecUy1wrvX70Aiw9iwVrVHLnVx31AfaFW2DefQ..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+      "summary": "在人工智能飞速发展的今天,编程已经不再是程序员的专利.有一款被称为“AI 时代最强编辑器”的工具——Cursor,正以其强大的代...",
+      "datetime": "2026-02-10 13:13:05",
+      "date_text": "2026年02月10日",
+      "date_description": "39天前",
+      "source": "柠檬班软件测试"
+    },
+    {
+      "title": "实践总结:AI编程工具Cursor的一个使用手册",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9k5HbDCkh55HBiRi064rARI0Cs66TGP9fELwHDf0NOr1SdJxRlQuN32lRn0ogK5LswFig-59ewvEsWtpQNP1TZOUnuqzWgf8zNlUVEfdIl9whTc-FpZKOMB5CPY7Q5jhnJyXtv8GUah8RRKBW0YwoaVPsjKVsi9LmRuGtXf1qemVAe0f8bRARvQ..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+      "summary": "实践总结:AI编程工具Cursor的一个使用手册罗光宣序:最近,使用AI编程工具Cursor开发一个基于Vue3.0的前端项目,从项目实践,...",
+      "datetime": "2026-01-29 00:04:41",
+      "date_text": "2026年01月29日",
+      "date_description": "52天前",
+      "source": "fireflyer"
+    },
+    {
+      "title": "马斯克预言成真?Cursor 让编程不再是“代码”,而是“对话” | 深度测评",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9vkLf6YlBCIOjthJgGSI2IlHrgtO80PT8SNZu3lw2NzgCjBpHM_PbnWsUuYOgACOrsulVi_AZ0URwdsuAcJeec7Kiw_zJqqx_ZmAz9mVuYltx9Y96eY8B_x_b6XsxzyAcJI6upQ73c-NcS6TCKcJhyB7zOYCXhg7__22s9MrFCzoY-UZGbO56rA..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+      "summary": "今天,我们正站在“自然语言编程”的门槛上.而推开这扇门的钥匙,可能就是我们今天要聊的主角——Cursor.它不仅是让程序员效...",
+      "datetime": "2026-01-20 18:27:28",
+      "date_text": "2026年01月20日",
+      "date_description": "60天前",
+      "source": "柠檬班软件测试"
+    },
+    {
+      "title": "用Cursor玩转AI辅助编程——不写代码也能做软件开发pdf电子书下载",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9gfdzOSNJCbXl0ZLGuJtWiECrHwM1GPitOu_mMRAoZtftfGgI_GUdYpNsygzFwQIjHr9BYcoAVIH0nNFqPocQk6Ua6HbZ0kC1Mb7Fbpgegk-aJEaje9dCDVnKmQrTYplLhRxEm2vYB-PejgxJRbPOlm4TUHXp42tcdxS4D9mdgVVFH6In5Ei3zg..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+      "summary": "Cursor在编程中的角色 3第2章 安装和配置Cursor 52.1 系统要求 52.2 下载与安装 62.3 初始配置 122.3.1 主题设置 142.3.2 字体设置 ...",
+      "datetime": "2026-01-17 12:00:24",
+      "date_text": "2026年01月17日",
+      "date_description": "63天前",
+      "source": "爱搜电子书"
+    },
+    {
+      "title": "AI编程神器Cursor保姆级攻略:新手也能快速上手",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd99C7Bb1GbOxkFwl71X9kwkm-ukqCjfT_B89NYcCK4UaZbSpy7u-tjzIGDt8E_tlqv61zqdvaubxXHfP5hVBj5Zrh-xoli2kRIskj8w2-a0ALHbpvB1SnUCTnJl8ZcYtybYpVQ_gAuGQ8UdDsdThxw2OLuE4PVoP1VHa6kK1AmtR-q3X8EKMKOIA..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+      "summary": "一、Cursor的产生背景:AI时代,编程效率的“破局者”随着软件开发复杂度不断提升,开发者面临的痛点愈发明显:重复编写基础代...",
+      "datetime": "2026-02-17 06:08:56",
+      "date_text": "2026年02月17日",
+      "date_description": "33天前",
+      "source": "码上菩提"
+    },
+    {
+      "title": "全网保姆级Cursor使用教程(AI编程)",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9Dqu3Ht5ulOCSnu7nUi1pweUc03XAr3v9kVJwzIhaqHR_Dlca7lvqp40VSfT3GNY1umqsYKiYndmqkbtcut9ClH4O9mVhVdhxMvT_tJ6dKPrjkXTcTk2wQDrbhw2T4f0Db0MXToiWHfMQulrl8GerJBjhDyLYnLSrMhvXzPEzvr9hlgeRt7bSzA..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+      "summary": "Cursor 作为 AI 时代的新型 IDE,将 AI 与编程深度结合,能够极大地提高开发效率.如果你习惯 VSCode,Cursor 让你可以无缝过渡....",
+      "datetime": "2026-02-06 10:09:39",
+      "date_text": "2026年02月06日",
+      "date_description": "44天前",
+      "source": "进阶之身"
+    },
+    {
+      "title": "深度测评 Cursor:AI 编程神器到底香不香?",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9uAPR_BbsA3JR7O7VS_3GfgS6rZ-VgiUwRpKHd1W3lhZQ5HDfdvOsoLH2ENlPz7Fq9REhmbjEInSDi44urPfNHSdzbIieWzJjAeXIyv7FAO5UKQcbw1q-y0adiYgW4x0-8hW4EwhfJ7Wr2CyvJOXe0QsQQglbGwXl8OlPcRtlYX3vzHZXxeLdyg..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+      "summary": "深度测评 Cursor:AI 编程神器到底香不香?作者: 你的程序员朋友阅读时间: 约 8 分钟 前言2024 年到 2026 年,如果你问身边的专业...",
+      "datetime": "2026-03-15 15:19:06",
+      "date_text": "2026年03月15日",
+      "date_description": "6天前",
+      "source": "去除水印大师"
+    },
+    {
+      "title": "【从0开始AI编程】Cursor工具:如何安装、使用、Rules规则",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9nlMIvgzUL0QHT_K8glHzE9oTvWxndXMICx9bEGjtDmQL-jKamP9tS6Z5hQfbpEO2dekgk2N5O3ZfD4FEJ-LgUdde4OZEhvStcQoaU7fle9xCy5JulPJUME2pR3A4dEySIESB5lZzd87v2j9FlZ3PeUJQf2UBFl0bFRH0BKJU4qNhlgeRt7bSzA..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+      "summary": "用一篇文章,告诉你Cursor是什么?怎么用?Cursor在AI编程里的定位Cursor是一款专门为Ai编程而设计的代码编辑器,深度集成了很...",
+      "datetime": "2026-02-03 00:00:24",
+      "date_text": "2026年02月03日",
+      "date_description": "47天前",
+      "source": "内存科技"
+    },
+    {
+      "title": "编程神器 Cursor,自然语言编程,程序猿们是不是要...",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bFhT7mSgUo82zZZ2YjZrZUVqXa8Fplpd9kEWUfKXf-xnUJOCQOSGQOaVdNvUyWqGm4vAqLDerLuQ1Dp7ZqZ5rBGNPGTdgoCAQz-DlqcTOOCFZs4A9_7yipKL83WXV0NoM5pYFrrphXJ7D90KpgHe-dTAVccNVLf55B2mmkjaSkBlSRNfzCpDYmLRQ1b-AgA6QnfY9O1e5wlxhlgeRt7bSzA..&type=2&query=Cursor %E7%BC%96%E7%A8%8B&token=D23853EBD6BC24AF8781CA1BFEACC817884E110369BF5070",
+      "summary": "编程神器——Cursor在网上看到了一款编程神器——Cursor,官网介绍说是与 OpenAI 合作的.Cursor 现在还处于早期阶段,但是现在 ...",
+      "datetime": "2023-03-31 09:01:39",
+      "date_text": "2023年03月31日",
+      "date_description": "1087天前",
+      "source": "HelloTech"
+    }
+  ]
+}

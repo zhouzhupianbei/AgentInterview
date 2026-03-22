@@ -1,0 +1,96 @@
+{
+  "query": "RAG 系统实战",
+  "total": 10,
+  "articles": [
+    {
+      "title": "DGX Lab 实战:全功能 RAG 基础设施搭建完整指南",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9QWtdZXrrcnxVCH4tMbogflL8fnH6YbSTYZ6NVaC7gLoiECTL5ezED6t-reLb1l7-9Q6Xm-kwDBupxbhHzPig-yBVaTPtAzYUtwaB29kx6pJ24j7HyxjNM6n4KXPRjckcQD8Nz0elGQSS_ZlMMvheYP476iUTHRob2IyawmsGQsDuL0unUdKkuw..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+      "summary": "RAG 系统性能,需严格遵循 NVIDIA 官方推荐的版本组合从基础到进阶分步落地:先基于官方模板搭建基础 RAG 系统,完成功能验证...",
+      "datetime": "2026-03-01 09:03:51",
+      "date_text": "2026年03月01日",
+      "date_description": "21天前",
+      "source": "GPUS开发者"
+    },
+    {
+      "title": "智能体准确率提升200%的RAG系统实战(附完整源码)",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd99tk5DlC5UfpNZlUhTYE9976bWzG44qjgCqItuVja9FKlvbCviYK0sif-sBtOiuGtgPBOJWmS4j0jzxLDFf-vuWuCRhg-Db2BKJ0lUvllWvJdb0f5CjKjdbLwgIzP1KP1nR2E34ePMYOHdkqZtAFljgSbC6g_hlNP4MNfW-ik6HthWLv6O878UA..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+      "summary": "加微信获取完整源码:huice666/danwen668LangChain+Milvus检索质量纠错系统实战一、传统 RAG 的局限性1.1 传统 RAG 的核心假...",
+      "datetime": "2026-03-17 12:43:54",
+      "date_text": "2026年03月17日",
+      "date_description": "4天前",
+      "source": "慧测"
+    },
+    {
+      "title": "企业级 RAG 本地知识库问答系统全链路实战Spring Boot + LangChain4j + LlamaIndex",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9u9vEJz4K-8CD4_dkt3oa86i6uz8m6bOKviWgrlWixikLyHU0l74FMxYIpNf9xD5eJz6UwQcNxVHW1NSg2KzWxbz-AvyQOGy9xkkHFVVIBcSPYj4_Ls_FJlyPOfKBumXzm5_fUdd832xOos8XknBHpu82cWhbSInptb6Y3C7PNUGAFV_3u-a3OQ..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+      "summary": "10m系统架构总览核心模块实战模块一:混合检索服务(HybridRetrievalService)结论企业级 RAG 系统必须采用混合检索策略,将向...",
+      "datetime": "2026-02-17 10:50:38",
+      "date_text": "2026年02月17日",
+      "date_description": "32天前",
+      "source": "编程基础很重要"
+    },
+    {
+      "title": "【深度解析】多模态RAG系统实战:LLaVA+LangChain构建视觉知识库",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9KVqNUmyTwQCYACZoBGOihc5chcOn_gC7pBILP9yzl0fBno6WeTmuArDc1D6Xsk9tI9m5sm8Y47J9j6Vmfd_zEABjbKfTLTFfWV6M7ykgcj-4n3nTuB-JQaEMdHEvM07doWnvpf4QDC4m35XwBfTr4HAkDuS3q8c7ECvTM9x9S18HpHkoPMgL3A..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+      "summary": "部署多模态RAG系统后,变化很明显:检索质量提升:系统不仅能找到相关文本,还能定位到对应的结构图.效率变化:技术支持团队...",
+      "datetime": "2026-03-13 09:03:13",
+      "date_text": "2026年03月13日",
+      "date_description": "9天前",
+      "source": "出家二少"
+    },
+    {
+      "title": "破解大模型幻觉!2026最火AI RAG系统保姆级教程:架构+原理+实战+优化,技术人直接抄作业",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9weXCXtP-l4X2e4TtKXQMLZyh6GOGKADCku1_FVp-I_ddVRUgYtSXTR-ZCOwu6FojLQwIexmhLrEVjbpJ0eDQzjnaW41tMnSbek4-kga-k9jqPIDeuWoenYqfJcYGyyuCMdvSXHshvCBqDAZ5DqvfbuzqJo4GgK6rhjsCEE-IaNWAFV_3u-a3OQ..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+      "summary": "RAG 可视化系统＂)                  # 上传文档(可替换知识库)                  uploaded_file = st.file_uploader(＂上传PDF文档(替换知识库...",
+      "datetime": "2026-02-03 07:00:48",
+      "date_text": "2026年02月03日",
+      "date_description": "47天前",
+      "source": "天府AI"
+    },
+    {
+      "title": "AI-07 实战:Naive RAG实现公司HR制度智能问答系统",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9yulGhJvtd4DklVqM2FyOuIKOQGzbfehVINsXL83zns9aNT3TfaxQoYhdb9IQxvTcZ-EjSpMFIVQI45luxp9-N05xIaxP2dU8OZseSKYokzbK8QTvRGvlc9PvPh4ndZTWSA8fXxWvQVXpHgl0cpxXsSVGTwvybWIWGhX50Axsxkw5eBgmN3LoYQ..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+      "summary": "RAG(检索增强生成)问答系统.HR_RAG/├── app.py              ... 当你通过一个HR问答系统实战,看清了从《人事管理制度.docx》...",
+      "datetime": "2026-03-08 22:01:08",
+      "date_text": "2026年03月08日",
+      "date_description": "13天前",
+      "source": "码上大模型"
+    },
+    {
+      "title": "2026年AI Agent记忆系统实战-从RAG到全能记忆体(节选)",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9j5JIWulZyf66MaIk38xQlJletpo3Li9KRmO2wJ4MsQ_1rkuphePpA-3dnVLLrRqh0qdgF0cX1IAfK96r5hXHscf9PHiiNc13iuSp7CEBsDAenRiBXQlpiG8yPyo7AW2b5_SR4hRvwZ7F0GMC29gTzVfAAcXInjaSUs0giSMQymy54z_tGSZTqA..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+      "summary": "系统性地梳理了Agent记忆系统的最新进展.核心观点:记忆是Agent的核心能力,也是持续进化的基础.2026年的Agent记忆系统已经...",
+      "datetime": "2026-03-12 11:03:00",
+      "date_text": "2026年03月12日",
+      "date_description": "9天前",
+      "source": "树墩子的AI路"
+    },
+    {
+      "title": "RAG 系统安全威胁全景:从学术前沿到实战防御",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9yhHRFu01mQKGqviMrD_QFMcar83IrFDQyOa8vJbKm0UvetG5lmvvK83L46RGZlrrYgsolvMTwQp3WSDo8TbXMw5lN_CAaMymZHfHAu8TOW4DBIxUdHZaFWDNSnnc6tXr6Hbo_3Y3fyXw1hAF7GT0LT-xSZT7kcLT8zx2Xw_0KUDf3q8uRDTfkw..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+      "summary": "本文是 RAG-Shield 系列博客的第一篇,从USENIX Security 2025 的论文 PoisonedRAG 出发,全面分析 RAG 系统面临的安全威胁,...",
+      "datetime": "2026-01-30 14:31:37",
+      "date_text": "2026年01月30日",
+      "date_description": "50天前",
+      "source": "Sidereus"
+    },
+    {
+      "title": "RAG 实战 - 打造企业知识库问答系统",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd9q9K1FirE8Yc7E39Z-Rxe-ae9MgLsMdzc52Ec-YXKR7bexV92i1T_CITkDhOOLAib6jjib2sz4tAKJegRPCMZlJ_eYODoobAqvsBYjhXBwabHLLcqb1o24MIYK5YdYCabARWGYykW1w238I0CEWNFQwSgCajhyBOJ_OHuyxYX-BgCYioxHkzTmA..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+      "summary": "RAG?简单来说RAG 就是在回答问题前,先去你的知识库里找相... // 从文件系统加载List documents=DocumentLoader....",
+      "datetime": "2026-02-06 20:01:00",
+      "date_text": "2026年02月06日",
+      "date_description": "43天前",
+      "source": "全栈生涯"
+    },
+    {
+      "title": "大模型实战:结合RAG构建自动问答系统",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7g9FB5Jdk0bq5g3DFVrJw2zZZ2YjZrZUVqXa8Fplpd943NQ6ZvdhnRjG9SSGi9O8KpWnZft47fweUlRq2Go1qbg_QTJiKAssqbPoU33f_xdDcRilSvjHxvfFi0snNI1P3iqQjaKJg4jh1ghu3Cc_MuC-J_x4WLHAKJ--lnnPXx8fT_5g0_oPjqU3ZcU5NvRqyA6qiVT7Ri67m4V9gQT5kZQL0Hr9Gyd3Q..&type=2&query=RAG %E7%B3%BB%E7%BB%9F%E5%AE%9E%E6%88%98&token=D238833B8BE179FDDBDC9648A34EA7E2DB650B5E69BF5077",
+      "summary": "借助 LLM RAG 范式将大模型与客服场景的私有知识与数据相结合,构建客服自动问答系统,更及时准确地回答用户所遇到的问题,同...",
+      "datetime": "2024-01-18 18:06:02",
+      "date_text": "2024年01月18日",
+      "date_description": "793天前",
+      "source": "DataFunSummit"
+    }
+  ]
+}
