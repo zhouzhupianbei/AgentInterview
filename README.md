@@ -1,8 +1,8 @@
 # AIGC 时代开发者面试指南
 
 > **副标题**：面向 AI 开发者的一站式面试准备资源  
-> **版本**：v1.4  
-> **更新时间**：2026 年 3 月 23 日 (自动更新)
+> **版本**：v1.5  
+> **更新时间**：2026 年 3 月 24 日 (自动更新)
 
 [![GitHub stars](https://img.shields.io/github/stars/zhouzhupianbei/AgentInterview?style=for-the-badge)](https://github.com/zhouzhupianbei/AgentInterview)
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=for-the-badge)](https://github.com/zhouzhupianbei/AgentInterview/blob/main/LICENSE)
@@ -205,7 +205,21 @@ AgentInterview/
 
 本项目支持自动更新机制，定期同步最新行业资源：
 
-**本次更新 (2026-03-23) - v1.4**：
+**本次更新 (2026-03-24) - v1.5**：
+- ✅ 新增 **2 个热门开源项目** 到资源汇总
+  - [obra/superpowers](https://github.com/obra/superpowers)：107k+ ⭐ Agentic Skills 框架与软件开发方法论
+  - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)：21k+ ⭐ Claude Code 增强配置框架
+- ✅ 新增 **4 道面试题** 到面试题库
+  - Q21: 什么是 obra/superpowers？核心理念是什么？
+  - Q22: 如何设计一个 Agentic Skills 系统？
+  - Q23: 什么是 SuperClaude_Framework？如何增强 Claude Code？
+  - Q24: 如何为团队设计定制的 Cognitive Personas？
+- ✅ 更新 **docs/06-资源汇总.md**：框架类项目列表
+- ✅ 更新 **docs/04-面试题库.md**：2026 新技术题章节
+- ✅ 更新 **README.md**：版本号 v1.4 → v1.5，更新日期 2026-03-24
+- ✅ 更新报告：`memory/agent-interview-updates-2026-03-24.md`
+
+**上次更新 (2026-03-23) - v1.4**：
 - ✅ 新增 **6 个主题三级知识结构面试题** (`memory/optimized-*.md`)
   - Vibe Coding（氛围编程）：2 个主题，9 个知识点，10 道面试题
   - SDD 规范驱动开发：2 个主题，9 个知识点，13 道面试题
