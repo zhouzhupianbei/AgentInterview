@@ -217,3 +217,15 @@ AgentInterview/
 https://github.com/zhouzhupianbei/AgentInterview
 
 如果你也在做 AI 面试准备、AI 工程学习、Agent/RAG 实战,欢迎一起把这份资料库整理得更完整。
+
+---
+
+## 关注公众号
+
+🔍 **开源情报局** — 持续分享优质开源项目，助你发现好工具、好资源。
+
+扫码关注，还可以加入交流群，和更多开源爱好者一起交流 👇
+
+<p align="center">
+  <img src="assets/wechat-qrcode.jpg" alt="开源情报局" width="200">
+</p>
