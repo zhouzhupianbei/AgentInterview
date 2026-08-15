@@ -70,6 +70,14 @@
 | #30 (高 star ≠ 数据错位) | re-fetch `MakazhanAlpamys/Soup` 确认 1570 stars 真实 |
 | #32 (微信分级 RECENCY_FLOOR) | 未应用分级放宽, 接受本期微信偏少 |
 
-## 提交哈希（待 push 后回填）
+## 提交哈希
 
-## 推送状态（待验证）
+- `b5c298c` — 补充 8 月中旬 MCP 跨工具泛化与 Harness 学术化沉淀资源
+- 推送状态: 已推送到 origin/main (commit 12076df..b5c298c)
+
+## 本期补充统计
+
+- GitHub 新项目: 10 个 (MCP 3 / Harness 2 / LLM 微调 1 / 其他 4)
+- 微信新文章: 6 篇 (Agent 开发 3 / Claude Code 3)
+- 累计已入库 GitHub full_name: 257 (247 + 10)
+- 已应用 trap: 17 个 (#6c/#7/#8/#9/#10/#11/#12/#13/#13b/#14/#18/#20/#21b/#28/#29/#30/#32)
